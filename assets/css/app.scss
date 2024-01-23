@@ -2,7 +2,7 @@
 ---
 $primary: #BF4073;
 // Import Main CSS file from theme
-@use "main";
+@import "main";
 
 .image-cropper {
   width: 200px;
