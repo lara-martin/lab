@@ -21,7 +21,7 @@
 title: LARA Lab @ UMBC
 description: >- # this means to ignore newlines until "baseurl:"
   The Language, Aid, and Representation AI (LARA) Lab at the University of Maryland, Baltimore County
-baseurl: "/LARA-Lab" # the subpath of your site, e.g. /blog
+baseurl: "/lab" # the subpath of your site, e.g. /blog
 url: "https://laramartin.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: LangTechLara
 github_username:  lara-martin
