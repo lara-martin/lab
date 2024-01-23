@@ -35,3 +35,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 gem "jekyll-remote-theme"
 gem "bulma-clean-theme"
+gem 'liquid'
