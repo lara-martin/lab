@@ -1,0 +1,21 @@
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+{% for group in site.data.people %}
+ {% for person in group.people %}
+ 
+	<script>
+		email{{person.first}} = new scrambledString(document.getElementById('email{{person.first}}'),
+		    'email{{person.first}}', '{{person.emaillist}}', {{person.emailorder}});
+
+	</script>
+
+{%endfor%}
+{%endfor%}
+
+<script src="assets/js/grow.js"></script>
+<script src="assets/js/main.js"></script>
+<script src="assets/js/convertLinks.js"></script>
+
+
+
+
+

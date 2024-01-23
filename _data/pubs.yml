@@ -1,0 +1,563 @@
+#-
+#  year: 
+#  title: 
+#  authors:
+#  venue:
+#  pdf:
+#  official_pdf:
+#  arxiv:
+#  slides:
+#  poster:
+#  code:
+#  data:
+#  bib:
+#  website:
+
+-
+  year: 2023
+  title: "CALYPSO: LLMs as Dungeon Masters' Assistants"
+  authors: Andrew Zhu, Lara J. Martin, Andrew Head, Chris Callison-Burch
+  arxiv: https://arxiv.org/abs/2308.07540
+  official_pdf: https://ojs.aaai.org/index.php/AIIDE/article/view/27534
+  img: calypso.png
+  venue: AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
+  location: Salt Lake City, UT
+  tag: dnd
+  poster: poster/calypso-poster.pdf
+  bib: |+
+    @article{Zhu2023CALYPSO,
+    title={{CALYPSO: LLMs as Dungeon Masters' Assistants}},
+    author={Zhu, Andrew and Martin, Lara J. and Head, Andrew and Callison-Burch, Chris},
+    year={2023},
+    eprint={2308.07540},
+    archivePrefix={arXiv},
+    url={https://ojs.aaai.org/index.php/AIIDE/article/view/27534},
+    pages={380--390},
+    doi={10.1609/aiide.v19i1.27534},
+    volume={19},
+    number={1},
+    journal={Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)},
+    month={10},
+    address={Salt Lake City, UT},
+    publisher={AAAI}
+    }
+
+-
+  year: 2023
+  title: "Human-in-the-Loop Schema Induction"
+  authors: Tianyi Zhang, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch
+  arxiv: https://arxiv.org/abs/2302.13048
+  img: schema.png
+  official_pdf: https://aclanthology.org/2023.acl-demo.1/
+  website: https://www.youtube.com/watch?v=myru-fozVWI
+  venue: ACL Demonstrations
+  location: Toronto, Canada  
+  bib: |+
+    @inproceedings{Zhang2023Schema,
+    title={{Human-in-the-Loop Schema Induction}},
+    author={Zhang, Tianyi and Tham, Isaac and Hou, Zhaoyi and Ren, Jiaxuan and Zhou, Liyang and Xu, Hianiu and Zhang, Li and Martin, Lara J. and Dror, Rotem and Li, Sha and Ji, Heng and Palmer, Martha and Brown, Susan and Suchocki, Reece and Callison-Burch, Chris},
+    year={2023},
+    eprint={2302.13048},
+    archivePrefix={arXiv},
+    booktitle={Annual Meeting of the Association for Computational Linguistics (ACL): System Demonstrations},
+    month={7},
+    address={Toronto, Canada},
+    url={https://aclanthology.org/2023.acl-demo.1/},
+    pages={1--10},
+    publisher={ACL},
+    doi={10.18653/v1/2023.acl-demo.1}
+    }
+
+-
+  year: 2023
+  title: "FIREBALL: A Dataset of Dungeons and Dragons Actual-Play with Structured Game State Information"
+  authors: Andrew Zhu, Karmanya Aggarwal, Alexander H. Feng, Lara J. Martin, Chris Callison-Burch
+  arxiv: https://arxiv.org/abs/2305.01528
+  official_pdf: https://aclanthology.org/2023.acl-long.229/
+  img: fireball.png
+  tag: dnd
+  data: https://github.com/zhudotexe/FIREBALL
+  venue: Annual Meeting of the Association for Computational Linguistics (ACL)
+  location: Toronto, Canada
+  poster: poster/ACL2023-FIREBALL.pdf 
+  bib: |+
+    @inproceedings{Zhu2023FIREBALL,
+    title={{FIREBALL: A Dataset of Dungeons and Dragons Actual-Play with Structured Game State Information}},
+    author={Zhu, Andrew and Aggarwal, Karmanya and Feng, Alexander and Martin, Lara J. and Callison-Burch, Chris},
+    year={2023},
+    eprint={2305.01528},
+    archivePrefix={arXiv},
+    booktitle={Annual Meeting of the Association for Computational Linguistics (ACL)},
+    month={7},
+    url={https://aclanthology.org/2023.acl-long.229/},
+    address={Toronto, Canada},
+    pages={4171--4193},
+    publisher={ACL},
+    doi={10.18653/v1/2023.acl-long.229}
+    }
+
+
+-
+  year: 2023
+  title: "CoRRPUS: Code-based Structured Prompting for Neurosymbolic Story Understanding"
+  authors: Yijiang River Dong, Lara J. Martin, Chris Callison-Burch
+  arxiv: https://arxiv.org/abs/2212.10754
+  img: corrpus.png
+  tag: understanding
+  venue: Findings of ACL
+  code: https://github.com/dong-river/CoRRPUS
+  official_pdf: https://aclanthology.org/2023.findings-acl.832/
+  location: Toronto, Canada
+  bib: |+
+    @inproceedings{Dong2023CoRRPUS,
+    title={{CoRRPUS: Code-based Structured Prompting for Neurosymbolic Story Understanding}},
+    author={Dong, Yijiang River and Martin, Lara J. and Callison-Burch, Chris},
+    year={2023},
+    eprint={2212.10754},
+    archivePrefix={arXiv},
+    booktitle={Findings of the Association for Computational Linguistics: ACL 2023},
+    month={7},
+    address={Toronto, Canada},
+    url={https://aclanthology.org/2023.findings-acl.832/},
+    pages={13152--13168},
+    publisher={ACL},
+    doi={10.18653/v1/2023.findings-acl.832}
+    }
+
+
+-
+  year: 2023
+  title: "Author as Character and Narrator: Deconstructing Personal Narratives from the r/AmITheAsshole Reddit Community"
+  authors: Salvatore Giorgi, Ke Zhao, Alexander H. Feng, Lara J. Martin
+  arxiv: https://arxiv.org/abs/2301.08104
+  official_pdf: https://ojs.aaai.org/index.php/ICWSM/article/view/22141
+  img: AITA.png
+  location: Limassol, Cyprus
+  slides: slides/Giorgi-et-al_AITA.pdf
+  tag: social
+  data: https://github.com/sjgiorgi/moral_judgements_in_aita
+  venue: International AAAI Conference on Web and Social Media (ICWSM)
+  bib: |+
+    @article{Giorgi2023AITA,
+    title={{Author as Character and Narrator: Deconstructing Personal Narratives from the r/AmITheAsshole Reddit Community}},
+    author={Giorgi, Salvatore and Zhao, Ke and Feng, Alexander H. and Martin, Lara J.},
+    year={2023},
+    month={6},
+    url={https://ojs.aaai.org/index.php/ICWSM/article/view/22141},
+    eprint={2301.08104},
+    archivePrefix={arXiv},
+    volume={17},
+    number={1},
+    pages={233--244},
+    journal={{Proceedings of the International AAAI Conference on Web and Social Media (ICWSM)}},
+    address={Limassol, Cyprus},
+    publisher={AAAI},
+    doi={10.1609/icwsm.v17i1.22141}
+    }
+
+
+-
+  year: 2022
+  title: "Dungeons and Dragons as a Dialogue Challenge for Artificial Intelligence"
+  authors: Chris Callison-Burch, Gaurav Singh Tomar, Lara J. Martin, Daphne Ippolito, Suma Bailis, David Reitter
+  venue: Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  location: Abu Dhabi, UAE
+  poster: poster/EMNLP2022-DnD.pdf
+  pdf: 2022.emnlp-main.637.pdf
+  arxiv: https://arxiv.org/abs/2210.07109
+  official_pdf: https://aclanthology.org/2022.emnlp-main.637
+  img: EMNLP2022-Dungeons.png
+  data: https://www.cis.upenn.edu/~ccb/dnd-data.html
+  tag: dnd
+  bib: |+
+    @inproceedings{ccb2022dungeons,
+    title={{Dungeons and Dragons as a Dialogue Challenge for Artificial Intelligence}},
+    author={Callison-Burch, Chris and Singh Tomar, Gaurav and Martin, Lara J. and Ippolito, Daphne and Bailis, Suma and Reitter, David},
+    booktitle={{Conference on Empirical Methods in Natural Language Processing (EMNLP)}},
+    year={2022},
+    pages={9379--9393},
+    eprint={2210.07109},
+    archivePrefix={arXiv},
+    address={Abu Dhabi, UAE},
+    publisher={ACL},
+    url={https://aclanthology.org/2022.emnlp-main.637},
+    month={12},
+    doi={10.18653/v1/2022.emnlp-main.637}
+    }
+    
+-
+  year: 2022
+  title: "Using Language Models to Convert Between Natural Language and Game Commands"
+  authors: Stefan Papazov, Wesley Gill, Marta García Ferreiro, Andrew Zhu, Lara J. Martin, Chris Callison-Burch
+  venue: NAACL 2022 Wordplay Workshop
+  location: Seattle, Washington
+  official_pdf: https://openreview.net/forum?id=jQSStHwtmDN
+  poster: https://docs.google.com/presentation/d/17kvH4o2R-Mj62BK-IoL7qi6qZMW52xAtkNsoMLFbBu0/edit?usp=sharing
+  pdf: Wordplay22-Using-LMs.pdf
+  img: Wordplay2022-Using.png
+  tag: dnd
+  bib: |+
+    @inproceedings{papazov2022avrae,
+    title={{Using Language Models to Convert Between Natural Language and Game Commands}},
+    author={Papazov, Stefan and Gill, Wesley and García Ferreiro, Marta and Zhu, Andrew and Martin, Lara J. and Callison-Burch, Chris},
+    booktitle={{Wordplay: Where Language Meets Games Workshop at NAACL 2022}},
+    year={2022},
+    month={7},
+    address={Seattle, WA},
+    url={https://openreview.net/forum?id=jQSStHwtmDN}
+    }
+
+
+#-
+#  year: 2022
+#  title: "Dungeons and Dragons as a Dialogue Challenge for Artificial Intelligence"
+#  authors: Chris Callison-Burch, Gaurav Singh Tomar, Lara J. Martin, Daphne Ippolito, Suma Bailis, David Reitter
+#  venue: NAACL 2022 Wordplay Workshop
+#  location: Seattle, Washington
+#  official_pdf: https://openreview.net/forum?id=EKwH-BMlkzq
+#  poster: poster/CCB-Dnd-Wordplay2022.pdf
+#  bib: |+
+#    @inproceedings{ccb2022wordplay,
+#    title={{Dungeons and Dragons as a Dialogue Challenge for Artificial Intelligence}},
+#    author={Callison-Burch, Chris and Singh Tomar, Gaurav and Martin, Lara J. and Ippolito, Daphne and Bailis, Suma and Reitter, David},
+#    journal={{Wordplay: Where Language Meets Games Workshop at NAACL 2022}},
+#    year={2022},
+#    url={https://openreview.net/forum?id=EKwH-BMlkzq}
+#    }
+
+-
+  year: 2022
+  title: "CIS&sup2;: A Simplified Commonsense Inference Evaluation for Story Prose"
+  authors: Bryan Li, Lara J. Martin, Chris Callison-Burch
+  venue: ACL 2022 Workshop on Commonsense Representation and Reasoning (CSRR)
+  location: Dublin, Ireland
+  official_pdf: https://openreview.net/forum?id=Se-xHMYg_bc
+  poster: poster/Li_Martin_Callison-Burch_CIS2-poster.pdf
+  arxiv: https://arxiv.org/abs/2202.07880
+  code: https://github.com/manestay/cis2
+  pdf: CSRR22-CIS2.pdf
+  talk: https://doi.org/10.48448/cqr2-2t70
+  img: CSRR2022-CIS2.png
+  tag: understanding
+  bib: |+
+    @inproceedings{li2022cis2,
+    title={{$CIS^2$: A Simplified Commonsense Inference Evaluation for Story Prose}},
+    author={Li, Bryan and Martin, Lara J. and Callison-Burch, Chris},
+    archivePrefix = {arXiv},
+    eprint = {2202.07880},
+    booktitle={{Workshop on Commonsense Representation and Reasoning (CSRR) at ACL 2022}},
+    year={2022},
+    month={5},
+    address={Dublin, Ireland},
+    url={https://openreview.net/forum?id=Se-xHMYg_bc}
+    }
+
+-
+  year: 2021
+  title: Neurosymbolic Automated Story Generation
+  authors: Lara J. Martin
+  venue: Thesis, Georgia Institute of Technology
+  official_pdf: http://hdl.handle.net/1853/64643
+  pdf: LaraMartin-Thesis.pdf
+  tag: story
+  img: Thesis2021-Neurosymbolic.png
+  bib: |+
+    @phdthesis{martin2021thesis,
+    title={{Neurosymbolic Automated Story Generation}},
+    school={Georgia Institute of Technology},
+    author={Martin, Lara J.},
+    year={2021},
+    month={4},
+    url={http://hdl.handle.net/1853/64643}
+    }
+-
+  year: 2021
+  type: Preprint
+  title: "Goal-Directed Story Generation: Augmenting Generative Language Models with Reinforcement Learning"
+  authors: Amal Alabdulkarim, Winston Li, Lara J. Martin, Mark O. Riedl
+  venue: arXiv preprint arXiv:2112.08593
+  arxiv: https://arxiv.org/abs/2112.08593
+  tag: story
+  img: arxiv2021-Goal.png
+  bib: |+
+    @report{alabdulkarim2021goal,
+    title={{Goal-Directed Story Generation: Augmenting Generative Language Models with Reinforcement Learning}},
+    author={Alabdulkarim, Amal and Li, Winston and Martin, Lara J. and Riedl, Mark O.},
+    year={2021},
+    archivePrefix={arXiv},
+    eprint={2112.08593},
+    url={https://arxiv.org/abs/2112.08593}
+    }    
+-
+  year: 2020
+  title: Story Realization&colon; Expanding Plot Events into Sentences
+  authors: Prithviraj Ammanabrolu, Ethan Tien, Wesley Cheung, Zhaochen Luo, William Ma, Lara J. Martin, Mark O. Riedl
+  venue: AAAI Conference on Artificial Intelligence (AAAI)
+  location: New York, NY
+  tag: story
+  img: AAAI2020-Story.png
+  official_pdf: https://ojs.aaai.org//index.php/AAAI/article/view/6232
+  arxiv: https://arxiv.org/abs/1909.03480
+  slides: https://drive.google.com/file/d/1E2rt6NqwzU3rVM1lKXgz-1CsuJQ5JMnO/view
+  poster: poster/Ammanabrolu-AAAI2020_poster.pdf
+  code: https://github.com/rajammanabrolu/StoryRealization
+  data: https://huggingface.co/datasets/lara-martin/Scifi_TV_Shows											
+  bib: |+
+    @article{ammanabrolu2020realization,
+    title={{Story Realization: Expanding Plot Events into Sentences}},
+    author={Ammanabrolu, Prithviraj and Tien, Ethan and Cheung, Wesley and Luo, Zhaochen and Ma, William and Martin, Lara J. and Riedl, Mark O.},
+    archivePrefix={arXiv},
+    eprint={1909.03480},
+    journal={{Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)}},
+    volume={34},
+    number={05},
+    year={2020},
+    pages={7375--7382},
+    month={4},
+    doi={10.1609/aaai.v34i05.6232},
+    publisher={AAAI},
+    url={https://ojs.aaai.org//index.php/AAAI/article/view/6232},
+    address={New York, NY}
+    }
+-
+  year: 2019
+  title: Controllable Neural Story Plot Generation via Reward Shaping
+  authors: Pradyumna Tambwekar, Murtaza Dhuliawala, Lara J. Martin, Animesh Mehta, Brent Harrison, Mark O. Riedl
+  venue: International Joint Conference on Artificial Intelligence (IJCAI)
+  location: Macao, China
+  tag: story
+  img: IJCAI2019-Controllable.png
+  official_pdf: https://www.ijcai.org/proceedings/2019/829
+  arxiv: https://arxiv.org/abs/1809.10736
+  slides: slides/Tambwekar-Dhuliawala_IJCAI_2019-slides.pdf
+  poster: poster/Tambwekar-Dhuliawala_IJCAI_2019-poster.pdf
+  code: https://github.com/lara-martin/StoryPlot-RewardShaping
+  bib: |+
+    @inproceedings{tambwekar2019controllable,
+    title={{Controllable Neural Story Plot Generation via Reward Shaping}},
+    author={Tambwekar, Pradyumna and Dhuliawala, Murtaza and Martin, Lara J. and Mehta, Animesh and Harrison, Brent and Riedl, Mark O.},
+    archivePrefix={arXiv},
+    eprint={1809.10736},
+    booktitle={{Proceedings of the Twenty-Eighth International Joint Conference on Artificial Intelligence, (IJCAI-19)}},
+    year={2019},
+    pages={5982--5988},
+    month={7},
+    doi={10.24963/ijcai.2019/829},
+    url={https://www.ijcai.org/proceedings/2019/829},
+    address={Macao, China}
+    }
+-
+  year: 2019
+  title: Guided Neural Language Generation for Automated Storytelling
+  authors: Prithviraj Ammanabrolu, Ethan Tien, Wesley Cheung, Zhaochen Luo, William Ma, Lara J. Martin, Mark O. Riedl
+  venue: ACL 2019 Workshop of Storytelling (StoryNLP)
+  location: Florence, Italy
+  tag: story
+  official_pdf: https://aclanthology.org/W19-3405/
+  slides: https://drive.google.com/file/d/1qQgS2j4jhvCs5mnqfAnyY94ZRxrBm6or/view
+  bib: |+
+    @inproceedings{ammanabrolu2019guided,
+    title={{Guided Neural Language Generation for Automated Storytelling}},
+    author={Ammanabrolu, Prithviraj and Tien, Ethan and Cheung, Wesley and Luo, Zhaochen and Ma, William and Martin, Lara J. and Riedl, Mark O.},
+    booktitle={{Proceedings of the Second Workshop on Storytelling (StoryNLP) at ACL 2019}},
+    year={2019},
+    pages={46--55},
+    month={8},
+    doi={10.18653/v1/W19-3405},
+    publisher={ACL},
+    url={https://aclanthology.org/W19-3405/},
+    address={Florence, Italy}
+    }									
+-
+  year: 2018
+  title: Dungeons and DQNs&colon; Toward Reinforcement Learning Agents that Play Tabletop Roleplaying Games
+  authors: Lara J. Martin, Srijan Sood, Mark O. Riedl
+  venue: AAAI 2018 Workshop on Intelligent Narrative Technologies (INT)
+  location: Edmonton, AB, Canada
+  pdf: Martin-Dungeons-n-DQNs.pdf
+  official_pdf: https://ceur-ws.org/Vol-2321/paper4.pdf
+  slides: slides/Martin-INT18-DungeonsnDQNs-slides.pdf
+  img: INT2018-Dungeons.png
+  tag: story dnd
+  bib: |+
+    @inproceedings{martin2018dungeons,
+    title={{Dungeons and DQNs: Toward Reinforcement Learning Agents that Play Tabletop Roleplaying Games}},
+    author={Martin, Lara J. and Sood, Srijan and Riedl, Mark},
+    booktitle={Proceedings of the Joint AIIDE Workshop on Intelligent Narrative Technologies and Workshop on Intelligent Cinematography and Editing (INT-WICED)},
+    year={2018},
+    month={11},
+    publisher={CEUR-WS},
+    url={https://ceur-ws.org/Vol-2321/paper4.pdf},
+    address={Edmonton, AB, Canada}
+    }										
+-
+  year: 2018
+  title: Event Representations for Automated Story Generation with Deep Neural Nets
+  authors: Lara J. Martin, Prithviraj Ammanabrolu, Xinyu Wang, William Hancock, Shruti Singh, Brent Harrison, Mark O. Riedl
+  venue: AAAI Conference on Artificial Intelligence (AAAI)
+  location: New Orleans, LA
+  official_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/11430
+  arxiv: https://arxiv.org/abs/1706.01331
+  poster: poster/Martin-aaai18-poster.pdf
+  img: AAAI2018-Event.png
+  tag: story
+  code: https://github.com/lara-martin/ASTER
+  data: https://www.dropbox.com/s/i5dsk92735jpunf/EventRepresentationDataRelease.zip?dl=0
+  bib: |+
+    @article{martin2018event,
+    title={{Event Representations for Automated Story Generation with Deep Neural Nets}},
+    author={Martin, Lara J. and Ammanabrolu, Prithviraj and Wang, Xinyu and Hancock, William and Singh, Shruti and Harrison, Brent and Riedl, Mark O.},
+    journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+    volume={32},
+    number={1},
+    month={2},
+    year={2018},
+    pages={868--875},
+    url={https://ojs.aaai.org/index.php/AAAI/article/view/11430},
+    address={New Orleans, LA},
+    doi={10.1609/aaai.v32i1.11430},
+    publisher={AAAI}
+    }
+-
+  year: 2017
+  title: Improvisational Storytelling Agents
+  authors: Lara J. Martin, Prithviraj Ammanabrolu, Xinyu Wang, Shruti Singh, Brent Harrison, Murtaza Dhuliawala, Pradyumna Tambwekar, Animesh Mehta, Richa Arora, Nathan Dass, Chris Purdy, Mark O. Riedl
+  venue: NeurIPS 2017 Workshop on Machine Learning for Creativity and Design
+  location: Long Beach, CA
+  pdf: NeurIPS-Creativity-17-improvisational-storytelling-agents.pdf
+  official_pdf: https://nips2017creativity.github.io/doc/Improvisational_Agents.pdf
+  poster: poster/NeurIPS17-ImprovStorytellingPoster.pdf
+  img: CreativityWorkshop2017-Improvisational.png
+  tag: story
+  bib: |+
+    @inproceedings{martin2017improvisational,
+    title={{Improvisational Storytelling Agents}},
+    author={Martin, Lara J. and Ammanabrolu, Prithviraj and Wang, Xinyu and Singh, Shruti and Harrison, Brent and Dhuliawala, Murtaza and Tambwekar, Pradyumna and Mehta, Animesh and Arora, Richa and Dass, Nathan and Purdy, Chris and Riedl, Mark O.},
+    booktitle={Workshop on Machine Learning for Creativity and Design (NeurIPS 2017)},
+    pages={4},
+    year={2017},
+    url={https://nips2017creativity.github.io/doc/Improvisational_Agents.pdf},
+    address={Long Beach, CA}
+    }
+#-
+#  year: 2017
+#  title: Event Representations for Automated Story Generation with Deep Neural Nets
+#  authors: Lara J. Martin, Prithviraj Ammanabrolu, William Hancock, Shruti Singh, Brent Harrison, Mark O. Riedl
+#  venue: KDD 2017 Workshop on Machine Learning for Creativity, Halifax, NS, Canada
+#  arxiv: 'https://arxiv.org/abs/1706.01331v2'
+#  slides: slides/KDD2017_slides.pdf
+#  bib: Please cite the 2018 paper of the same name.
+-
+  year: 2016
+  title: Improvisational Computational Storytelling in Open Worlds
+  authors: Lara J. Martin, Brent Harrison, Mark O. Riedl
+  venue: International Conference on Interactive Digital Storytelling (ICIDS)
+  location: Los Angeles, CA
+  pdf: Martin_ICIDS2016.pdf
+  slides: slides/ICIDS2016_MartinHarrisonRiedl_slides.pdf
+  official_pdf: https://link.springer.com/chapter/10.1007/978-3-319-48279-8_7
+  img: ICIDS2016-Improvisational.png
+  tag: story
+  bib: |+
+    @inproceedings{martin2016improvisational,
+    title={{Improvisational Computational Storytelling in Open Worlds}},
+    author={Martin, Lara J. and Harrison, Brent and Riedl, Mark O.},
+    booktitle={International Conference on Interactive Digital Storytelling (ICIDS)},
+    pages={73--84},
+    year={2016},
+    month={10},
+    publisher={Springer},
+    url={https://link.springer.com/chapter/10.1007/978-3-319-48279-8_7},
+    address={Los Angeles, CA}
+    }
+-
+  year: 2015
+  title: Utterance Classification in Speech-to-Speech Translation for Zero-Resource Languages in the Hospital Administration Domain
+  authors: Lara J. Martin, Andrew Wilkinson, Sai Sumanth Miryala, Vivian Robison, Alan W Black
+  venue: IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
+  location: Scottsdale, AZ
+  official_pdf: https://ieeexplore.ieee.org/document/7404809
+  pdf: ASRU2015_MartinEtAl.pdf
+  poster: poster/MartinASRU2015Poster.pdf
+  tag: speech
+  img: ASRU2014-Utterance.png
+  bib: |+
+    @inproceedings{martin2015utterance,
+    title={{Utterance Classification in Speech-to-Speech Translation for Zero-Resource Languages in the Hospital Administration Domain}},
+    author={Martin, Lara J. and Wilkinson, Andrew and Miryala, Sai Sumanth and Robison, Vivian and Black, Alan W},
+    booktitle={2015 IEEE Workshop on Automatic Speech Recognition and Understanding (ASRU)},
+    pages={303--309},
+    month={12},
+    year={2015},
+    publisher={IEEE},
+    url={https://ieeexplore.ieee.org/document/7404809},
+    doi={10.1109/ASRU.2015.7404809},
+    address={Scottsdale, AZ}
+    }   
+-
+  year: 2014
+  title: A Methodology for Using Crowdsourced Data to Measure Uncertainty in Natural Speech
+  authors: Lara J. Martin, Matthew Stone, Florian Metze, Jack Mostow
+  venue: IEEE Spoken Language Technology Workshop (SLT)
+  location: South Lake Tahoe, NV
+  official_pdf: https://ieeexplore.ieee.org/document/7078556
+  pdf: SLT14-Uncertainty.pdf
+  poster: poster/LaraMartinSLT2014Poster.pdf
+  img: SLT2014-Methodology.png
+  tag: speech
+  bib: |+
+    @inproceedings{martin2014methodology,
+    title={{A Methodology for Using Crowdsourced Data to Measure Uncertainty in Natural Speech}},
+    author={Martin, Lara and Stone, Matthew and Metze, Florian and Mostow, Jack},
+    booktitle={2014 IEEE Spoken Language Technology Workshop (SLT)},
+    pages={95--99},
+    month={12},
+    year={2014},
+    publisher={IEEE},
+    doi={10.1109/SLT.2014.7078556},
+    url={https://ieeexplore.ieee.org/document/7078556},
+    address={South Lake Tahoe, NV}
+    }
+-
+  year: 2014
+  title: Identifying Student Leaders from MOOC Discussion Forums through Language Influence
+  authors: Seungwhan Moon, Saloni Potdar, Lara J. Martin
+  venue: EMNLP 2014 Workshop on Analysis of Large Scale Social Interaction in MOOCs
+  location: Doha, Qatar
+  official_pdf: https://www.aclweb.org/anthology/W14-4103/
+  img: EMNLPWorkshop2014-Identifying.png
+  tag: social
+  bib: |+
+    @inproceedings{moon2014identifying,
+    title={{Identifying Student Leaders from MOOC Discussion Forums through Language Influence}},
+    author={Moon, Seungwhan and Potdar, Saloni and Martin, Lara},
+    booktitle={Proceedings of the EMNLP 2014 Workshop on Analysis of Large Scale Social Interaction in MOOCs},
+    pages={15--20},
+    year={2014},
+    url={https://www.aclweb.org/anthology/W14-4103/},
+    address={Doha, Qatar}
+    }
+-
+  year: 2014
+  title: Applause&colon; A Learning Tool for Low-Resource Languages
+  authors: Nikolas Wolfe, Vinay Vyas Vemuri, Lara J. Martin, Florian Metze, Alan W Black
+  venue: CHI 2014 Workshop on Designing Speech and Language Interactions
+  location: Toronto, Canada
+  pdf: CHI14-Applause.pdf
+  official_pdf: http://www.cs.toronto.edu/dsli2014/submissions/applause-chi-paper-photo-ready.pdf
+  img: CHIWorkshop2014-Applause.png
+  tag: speech
+  bib: |+
+    @inproceedings{wolfeapplause,
+    title={{Applause: A Learning Tool for Low-Resource Languages}},
+    author={Wolfe, Nikolas and Vemuri, Vinay Vyas and Martin, Lara J. and Metze, Florian and Black, Alan W},
+    booktitle={Designing Speech and Language Interactions Workshop (CHI 2014)},
+    address={Toronto, Canada},
+    year={2014}
+    }
+#    booktitle={NIST TRECVID Video Retrieval Evaluation Workshop},
+#    volume={24},
+#    year={2014},
+#    address={Orlando, FL},
+#    url={https://www-nlpir.nist.gov/projects/tvpubs/tv14.papers/cmu.pdf}
+#    }
