@@ -72,15 +72,15 @@ title: Publications
 					{% endcapture %}
 					
 					{% assign l = list | strip%}
-					{% assign aut = paper.authors | split: "," %}{% capture author_list %}{% for a in aut %}{% assign y = a |strip %}{% assign found = site.data.authors | find: "name", y %}{% if found %}, <a aria-label="{{found.name}}" href="{{found.link}}">{{found.name}}</a>{% else %}, {{y}}{% endif %}{% endfor %}{% endcapture %}
-															
+					<!--{% assign aut = paper.authors | split: "," %}{% capture author_list %}{% for a in aut %}{% assign y = a |strip %}{% assign found = site.data.authors | find: "name", y %}{% if found %}, <a aria-label="{{found.name}}" href="{{found.link}}">{{found.name}}</a>{% else %}, {{y}}{% endif %}{% endfor %}{% endcapture %}-->
+													
                 <div class="position-relative mb-4 {{paper.tag}} portfolio-item ">                   
 					{% if paper.img %}<div class="paperImage"><img src="assets/img/{{paper.img}}"></div>{% endif %}
 					{% if paper.type %}<mark>{{paper.type}}</mark>{% endif%}
 
                     <i class="far text-primary position-absolute" style="top: 2px; left: -32px;"></i>
                     <h5 class="font-weight-bold mb-1">{{paper.title}}</h5>
-                    {{ author_list | remove_first: "," |strip | replace: "Lara J. Martin", "<u>Lara J. Martin</u>" }}. <em>{{paper.venue}}</em>{%if paper.location%}, {{paper.location}}{%endif%}. {{ l }}
+                    {{ paper.authors | remove_first: "," |strip | replace: "Lara J. Martin", "<u>Lara J. Martin</u>" }}. <em>{{paper.venue}}</em>{%if paper.location%}, {{paper.location}}{%endif%}. {{ l }}
                     <a type="a" class="collapsible paperlink bib" aria-label="Copy BibTex for {{ paper.title }} to clipboard">bibTex</a><div class="copied tooltiptext">BibTex copied!</div><div class="highlight"><div class='measuringWrapper'>{{ paper.bib }}</div></div>
 					
                 </div>
