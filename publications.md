@@ -81,7 +81,7 @@ title: Publications
                     <i class="far text-primary position-absolute" style="top: 2px; left: -32px;"></i>
                     <h5 class="font-weight-bold mb-1">{{paper.title}}</h5>
 
-      			{% assign aut = paper.authors %}{% for job in site.people %} {% for person in job.people %}{% assign aut = aut | replace: "{{person.name}}", "<u>{{person.name}}</u>" %}{% endfor %}{% endfor %}
+      			{% assign aut = paper.authors %}{% for job in site.people %} {% for person in job.people %}{% assign aut2 = aut | replace: "{{person.name}}", "<u>{{person.name}}</u>" %}{% assign aut = aut2 %}{% endfor %}{% endfor %}
 	 {{aut}}. <em>{{paper.venue}}</em>{%if paper.location%}, {{paper.location}}{%endif%}. {{ l }}
                     <a type="a" class="collapsible paperlink bib" aria-label="Copy BibTex for {{ paper.title }} to clipboard">bibTex</a><div class="copied tooltiptext">BibTex copied!</div><div class="highlight"><div class='measuringWrapper'>{{ paper.bib }}</div></div>
 					
