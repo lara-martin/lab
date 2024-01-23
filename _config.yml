@@ -27,7 +27,8 @@ twitter_username: LangTechLara
 github_username:  lara-martin
 
 # Build settings
-theme: bulma-clean-theme
+#theme: bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 
