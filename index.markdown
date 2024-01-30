@@ -42,9 +42,9 @@ Information Technology and Engineering (ITE) 368
 	 </div>
 	 <br>
 	 <h4 style="display: inline;">{{person.name}}</h4>{% if person.subtitle %}, {{person.subtitle}}{% endif %}<br>
-	 {{person.pronouns}}<br>
+	 <div aria-label="pronouns">{{person.pronouns}}</div><br>
 	 {% if person.website %}
-	 [<a href="{{person.website}}" alt="{{person.name}}'s website">website</a>]
+	 [<a href="{{person.website}}" aria-label="{{person.name}}'s website">website</a>]
 	 {% endif %}
 	 {% if person.emaillist %}
 	 [<div id="email{{person.first}}" style="display:inline;"> 
@@ -52,13 +52,13 @@ Information Technology and Engineering (ITE) 368
 	</div>]
 	 {% endif %}
 	 {% if person.scholar %}
-	 [<a href="{{person.scholar}}" alt="{{person.name}}'s Google Scholar">scholar</a>]
+	 [<a href="{{person.scholar}}" aria-label="{{person.name}}'s Google Scholar">scholar</a>]
 	 {% endif %}
 	 {% if person.mastodon %}
-	 [<a href="{{person.mastodon}}" alt="{{person.name}}'s mastodon account">social</a>]
+	 [<a href="{{person.mastodon}}" aria-label="{{person.name}}'s mastodon account">social</a>]
 	 {% endif %}
 	 {% if person.blurb %}
-	 <br><div class="bio">{{person.blurb}}</div>
+	 <br><div class="bio" aria-label="about {{person.name}}">{{person.blurb}}</div>
 	 {% endif %}
 	</td>
 	
