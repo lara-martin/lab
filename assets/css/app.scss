@@ -1,6 +1,6 @@
 ---
 ---
-$primary: #B24D76; /*mystic maroon*/
+$primary: #B24D76;
 // Import Main CSS file from theme
 @import "main";
 
@@ -22,7 +22,7 @@ img {
 }
 
 .bio {
-  background: #ABE3CD; /*magic mint*/
+  background: #ABE3CD;
   border-radius: 25px;
   padding: 10px;
 }
@@ -37,7 +37,7 @@ img {
 
 	opacity: 0;
 	visibility: visible;
-	color: #E0D8DE; /*gainsboro*/
+	color: #E0D8DE;
 	background-color: #600060;
 	font-size: 1.1rem;
 	display: table;
@@ -68,7 +68,7 @@ body .uwy.userway_p1 .uai {
 }
 
 .paperlink {
-  background-color: #A1CECE; /*pastel blue*/
+  background-color: #A1CECE;
   color: black;
   text-align: center;
   text-decoration: none;
@@ -85,31 +85,31 @@ body .uwy.userway_p1 .uai {
 }
 
 .bib{
-  background-color: #C2F2B6; /*tea green*/
+  background-color: #C2F2B6;
 }
 .arxiv{
-  background-color: #B6E0F2; /*blizzard blue*/
+  background-color: #B6E0F2;
 }
 .slides{
-  background-color: #f2b6c2; /*spanish pink*/
+  background-color: #f2b6c2;
 }
 .poster{
-  background-color: #FFCAB1; /*apricot*/
+  background-color: #FFCAB1;
 }
 .code{
-  background-color: #f2f5a9; /*pale goldenrod*/
+  background-color: #f2f5a9;
 }
 .data{
-  background-color: #E6B6F2; /*mauve*/
+  background-color: #E6B6F2;
 }
 .pdf{
-  background-color: #B6C2F2; /*vodka*/
+  background-color: #B6C2F2;
 }
 .talk{
-  background-color: #e1d0f5; /*pale lavender*/
+  background-color: #e1d0f5;
 }
 .website{
-  background-color: #F2E6B6; /*banana mania*/
+  background-color: #F2E6B6;
 }
 
 .paperlink:hover {
