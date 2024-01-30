@@ -42,7 +42,7 @@ Information Technology and Engineering (ITE) 368
 	 </div>
 	 <br>
 	 <h4 style="display: inline;">{{person.name}}</h4>{% if person.subtitle %}, {{person.subtitle}}{% endif %}<br>
-	 <div aria-label="pronouns">{{person.pronouns}}</div><br>
+	 <div aria-label="pronouns">{{person.pronouns}}</div>
 	 {% if person.website %}
 	 [<a href="{{person.website}}" aria-label="{{person.name}}'s website">website</a>]
 	 {% endif %}
