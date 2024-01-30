@@ -12,9 +12,10 @@ function scrambledString(tag, objName, initScrambledString, initScrambledStringI
 	this.initAnimatedBubbleSort = initAnimatedBubbleSort;
 	this.bubbleSortStep = bubbleSortStep;
 	this.bubbleSortBookmark = 0;
+	var name = this.objName.replace("email","");
 
 	this.rescramble();
-	this.tag.innerHTML = '<a id="unscramble" onClick="' + this.objName + '.initAnimatedBubbleSort();" aria-text="click here to unscramble my email address and make it useable">email</a>';
+	this.tag.innerHTML = '<a id="unscramble" onClick="' + this.objName + '.initAnimatedBubbleSort();" tabindex=0 aria-label="click to reveal the email address for '+name+'">email</a>';
 }
 
 function rescramble() {

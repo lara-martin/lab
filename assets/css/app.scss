@@ -37,13 +37,15 @@ img {
 	visibility: visible;
 	color: #E0D8DE;
 	background-color: #600060;
-	padding: 2px 10px;
 	font-size: 1.1rem;
 	display: table;
   	right: 2%;
   	font-style: normal;
   	border: #E0D8DE;
   	border-style: solid;
+  	position: relative;
+  	z-index: 10;
+  	margin: 10px 0px -20px 20px;
 
 
 }
