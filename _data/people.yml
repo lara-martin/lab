@@ -24,7 +24,7 @@
       subtitle: PhD Student in Computer Science
       website: https://www.linkedin.com/in/pattydelafuente
       pronouns: she
-      blurb: "Patty Delafuente is a Data Scientist  that supports the Public Sector team at NVIDIA. She is an AI Enthusiast with over 20 years of experience in Data Engineering and Analytics. She focuses much of her time helping Civilian customers accelerate their data science, NLP, and computer vision workloads with NVIDIA RAPIDS, NeMo, and the TAO Toolkit. She is a certified Deep Learning Institute Instructor and teaches multiple deep learning and large language model workshops for NVIDIA Deep Learning Institute. She holds a Master of Science in Analytics from Texas A&M and is currently pursuing her PhD in Computer Science at UMBC. She is part of the Adjunct Faculty at UMBC and occasionally teaches an Applied AI course for the Graduate Data Science Program. Her research areas are focused around managing application state and researching techniques such as reinforcement learning to improve agent planning within large language model applications."
+      blurb: "Patty Delafuente is a Data Scientist that supports the Public Sector team at NVIDIA. She is an AI Enthusiast with over 20 years of experience in Data Engineering and Analytics. She focuses much of her time helping Civilian customers accelerate their data science, NLP, and computer vision workloads with NVIDIA RAPIDS, NeMo, and the TAO Toolkit. She is a certified Deep Learning Institute Instructor and teaches multiple deep learning and large language model workshops for NVIDIA Deep Learning Institute. She holds a Master of Science in Analytics from Texas A&M and is currently pursuing her PhD in Computer Science at UMBC. She is part of the Adjunct Faculty at UMBC and occasionally teaches an Applied AI course for the Graduate Data Science Program. Her research areas are focused around managing application state and researching techniques such as reinforcement learning to improve agent planning within large language model applications."
       first: patty
       emaillist: abcdemnnopsttuu@.
       emailorder: "[3,11,12,15,14,10,4,7,6,0,1,2,5,9,16,8,13]"
@@ -32,9 +32,13 @@
     - name: Shawn Bray
       subtitle: PhD Student in Computer Engineering
       first: shawn
+      img: bray_shawn.jpeg
       pronouns: he
       emaillist: 2abbcdehmnsuuw@.
       emailorder: "[6,2,5,10,11,14,13,1,9,4,0,8,15,3,7,12]"
+      scholar: https://scholar.google.com/citations?user=YHpyMWEAAAAJ
+      bio: "Shawn Bray is a PhD student at the Computer Science and Electrical Engineering Department of the University of Maryland, Baltimore County. He received his M.S. in embedded electrical and computer systems, and B.S. in electrical engineering from San Francisco State University. His research interests includes high performance computing for Deep learning, mixed-signal integrated circuit design, computer architecture design for Very Large Scale Integrated (VLSI) design and emerging applications in edge computing."
+      
 
 
 
