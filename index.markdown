@@ -20,9 +20,9 @@ Information Technology and Engineering (ITE) 368
 
 {% for group in site.data.people %}
 <h2> {{group.title}} </h2>
-<div id="table-wrapper">
-<div id="table-scroll">
-<table id="data">
+<div class="table-wrapper">
+<div class="table-scroll">
+<table class="people">
 
   <tbody>
   <tr>
