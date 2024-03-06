@@ -180,12 +180,16 @@ body .uwy.userway_p1 .uai {
 }
 
 
-.people > tr
+.people > tbody > tr
 {
   display:flex;
+  flex-wrap: wrap;
 }
 
-
+.people > tbody > tr > td
+{
+  width: 
+}
 
 .row {
   display: flex;
@@ -344,3 +348,6 @@ mark {
 	
 }
 
+.content table tbody tr td {
+	max-width: 50%;
+}
