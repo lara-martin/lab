@@ -12,10 +12,11 @@ function scrambledString(tag, objName, initScrambledString, initScrambledStringI
 	this.initAnimatedBubbleSort = initAnimatedBubbleSort;
 	this.bubbleSortStep = bubbleSortStep;
 	this.bubbleSortBookmark = 0;
-	var name = this.objName.replace("email","");
+	this.name = this.objName.replace("email","");
+	this.name = this.name[0].toUpperCase() + this.name.slice(1)
 
 	this.rescramble();
-	this.tag.innerHTML = '<a id="unscramble" onClick="' + this.objName + '.initAnimatedBubbleSort();" tabindex=0 aria-label="click to reveal the email address for '+name+'">email</a>';
+	this.tag.innerHTML = '<a id="unscramble" onClick="' + this.objName + '.initAnimatedBubbleSort();" tabindex=0 aria-label="Click to reveal the email address for '+this.name+'.">email</a>';
 }
 
 function rescramble() {
@@ -60,6 +61,6 @@ function bubbleSortStep() {
 	this.bubbleSortBookmark = i;
 	if (!this.changed) {
 		clearInterval(this.interval);
-		this.tag.innerHTML = '<a href="mailto:' + this.string + '" aria-text="email ' + this.objName+'">' + this.string + '</a>';
+		this.tag.innerHTML = '<a href="mailto:' + this.string + '" aria-text="email ' + this.name+'">' + this.string + '</a>';
 	}
 }
