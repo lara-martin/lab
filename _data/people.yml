@@ -44,6 +44,12 @@
 
 - title: Masters Students
   people:
+    - name: Ashish Athimamula
+      emaillist: 24455abcdekmu@.
+      emailorder: "[3,2,4,5,6,1,10,11,14,13,0,9,8,7,12]"      
+      pronouns: he
+      first: ashish
+      subtitle: MS Student in Computer Science  
     - name: Shadab Choudhury
       emaillist: 1aabbccddehmsuu@.
       emailorder: "[7,2,4,5,11,6,12,3,15,14,1,10,0,9,16,8,13]"      
@@ -53,11 +59,11 @@
       first: shadab
       subtitle: MS Student in Computer Science
       
-    - name: Sirisha
-      emaillist: 1bcdefhiimrssuu@.
-      emailorder: "[7,11,12,15,14,0,6,2,4,10,3,1,5,9,16,8,13]" 
+    - name: Arya Honraopatil
+      emaillist: 1aabcdehmnooruu@.
+      emailorder: "[7,0,5,10,11,14,1,10,3,2,6,4,16,8,9,13]" 
       pronouns: she
-      first: siri
+      first: arya
       subtitle: MS Student in Computer Science      
     
     - name: Naren Sivakumar
