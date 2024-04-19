@@ -7,7 +7,7 @@ title: LARA Lab
 subtitle: Language, Aid, and Representation AI Lab
 ---
 # About
-In this lab, we look at using and improving language tools to make better, human-centered artifical intelligence (AI). We are currently working on neurosymbolic methods for playing <i>Dungeons &amp; Dragons</i> and speech synthesis for accessibility.
+In this lab, we look at using and improving language tools to make better, human-centered artifical intelligence (AI). We are currently working on reinforcement learning agents for playing <i>Dungeons &amp; Dragons</i>, customizable speech synthesis, and emotional text generation for accessibility.
 
 
 #### Location
