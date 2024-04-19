@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-header: <img src="assets/img/LARA-lab-white.png" alt="LARA Lab logo"/>
 ---
 
 
