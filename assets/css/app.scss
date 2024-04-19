@@ -347,3 +347,10 @@ mark {
 .content table tbody tr td {
 	max-width: 50%;
 }
+
+.hero.is-primary.is-bold {
+	background-image: url("../img/LARA-lab-white.png");
+  	background-size: 150vh;
+	  background-repeat: no-repeat;
+	  background-position-y: center;
+}
