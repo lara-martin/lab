@@ -3,9 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: LARA Lab
-subtitle: Language, Aid, and Representation AI Lab
 ---
+<div class="header">
+	<img src="assets/img/LARA-lab-white.png" alt="LARA Lab logo"/>
+</div>
+
 # About
 In this lab, we look at using and improving language tools to make better, human-centered artifical intelligence (AI). We are currently working on reinforcement learning agents for playing <i>Dungeons &amp; Dragons</i>, customizable speech synthesis, and emotional text generation for accessibility.
 
