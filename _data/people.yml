@@ -46,7 +46,7 @@
   people:
     - name: Ashish Athimamula
       emaillist: 24455abcdekmuu@.
-      emailorder: "[3,2,4,5,6,1,10,11,14,13,0,9,8,7,12,15]"      
+      emailorder: "[3,2,4,5,6,1,10,11,14,13,0,9,8,15,7,12]"      
       pronouns: he
       first: ashish
       subtitle: MS Student in Computer Science  
@@ -61,7 +61,7 @@
       
     - name: Arya Honraopatil
       emaillist: 1aabcdehmnooruu@.
-      emailorder: "[7,0,5,11,12,15,14,1,10,3,2,6,4,16,8,9,13]" 
+      emailorder: "[7,0,5,11,12,15,14,1,10,3,2,6,4,9,16,8,13]" 
       pronouns: she
       first: arya
       subtitle: MS Student in Computer Science      
