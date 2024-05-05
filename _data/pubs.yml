@@ -18,7 +18,8 @@
   title: "Bridging the Social & Technical Divide in Augmentative and Alternative Communication (AAC) Applications for Autistic Adults"
   authors: Lara J. Martin, Malathy Nagalakshmi
   arxiv: https://arxiv.org/abs/2404.17730
-  type: preprint
+  type: Preprint
+  img: 2024BridgingAAC.png
   tag: aac
   bib: |+
     @report{Martin2024Bridging,
