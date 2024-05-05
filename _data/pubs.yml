@@ -20,6 +20,7 @@
   arxiv: https://arxiv.org/abs/2404.17730
   type: Preprint
   img: 2024BridgingAAC.png
+  venue: arXiv preprint arXiv:2404.17730
   tag: aac
   bib: |+
     @report{Martin2024Bridging,
@@ -30,7 +31,7 @@
     archivePrefix={arXiv},
     url={https://arxiv.org/abs/2404.17730},
     doi={10.48550/arXiv.2404.17730},
-    month={4}}
+    month={4}
     }
 
 
