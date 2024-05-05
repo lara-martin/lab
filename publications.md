@@ -12,12 +12,12 @@ title: Publications
         <div class="col-12 mb-2">
             <ul class="list-inline mb-4" id="portfolio-flters">
                 <li class="btn btn-sm btn-outline-primary m-1 active"  data-filter="*">All</li>
+                <li class="btn btn-sm btn-outline-primary m-1" data-filter="aac">Augmentative and Alternative Communication (AAC)</li>
+                <li class="btn btn-sm btn-outline-primary m-1" data-filter="dnd">Dungeons & Dragons</li> 
                 <li class="btn btn-sm btn-outline-primary m-1" data-filter="speech">Speech</li>
+                <li class="btn btn-sm btn-outline-primary m-1" data-filter="social">Social Media</li>
                 <li class="btn btn-sm btn-outline-primary m-1" data-filter="story">Story Generation</li>
                 <li class="btn btn-sm btn-outline-primary m-1" data-filter="understanding">Story Understanding</li>
-                <li class="btn btn-sm btn-outline-primary m-1" data-filter="social">Social Media</li>
-                <li class="btn btn-sm btn-outline-primary m-1" data-filter="dnd">Dungeons & Dragons</li> 
-                <li class="btn btn-sm btn-outline-primary m-1" data-filter="aac">Augmentative and Alternative Communication (AAC)</li>                
             </ul>
         </div>
 
