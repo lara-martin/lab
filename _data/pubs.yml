@@ -98,7 +98,8 @@
   official_pdf: https://aclanthology.org/2023.acl-long.229/
   img: fireball.png
   tag: dnd
-  data: https://github.com/zhudotexe/FIREBALL
+  data: https://huggingface.co/datasets/lara-martin/FIREBALL
+  code: https://github.com/zhudotexe/FIREBALL
   venue: Annual Meeting of the Association for Computational Linguistics (ACL)
   location: Toronto, Canada
   poster: poster/ACL2023-FIREBALL.pdf 
@@ -368,28 +369,28 @@
     url={https://www.ijcai.org/proceedings/2019/829},
     address={Macao, China}
     }
--
-  year: 2019
-  title: Guided Neural Language Generation for Automated Storytelling
-  authors: Prithviraj Ammanabrolu, Ethan Tien, Wesley Cheung, Zhaochen Luo, William Ma, Lara J. Martin, Mark O. Riedl
-  venue: ACL 2019 Workshop of Storytelling (StoryNLP)
-  location: Florence, Italy
-  tag: story
-  official_pdf: https://aclanthology.org/W19-3405/
-  slides: https://drive.google.com/file/d/1qQgS2j4jhvCs5mnqfAnyY94ZRxrBm6or/view
-  bib: |+
-    @inproceedings{ammanabrolu2019guided,
-    title={{Guided Neural Language Generation for Automated Storytelling}},
-    author={Ammanabrolu, Prithviraj and Tien, Ethan and Cheung, Wesley and Luo, Zhaochen and Ma, William and Martin, Lara J. and Riedl, Mark O.},
-    booktitle={{Proceedings of the Second Workshop on Storytelling (StoryNLP) at ACL 2019}},
-    year={2019},
-    pages={46--55},
-    month={8},
-    doi={10.18653/v1/W19-3405},
-    publisher={ACL},
-    url={https://aclanthology.org/W19-3405/},
-    address={Florence, Italy}
-    }									
+#-
+#  year: 2019
+#  title: Guided Neural Language Generation for Automated Storytelling
+#  authors: Prithviraj Ammanabrolu, Ethan Tien, Wesley Cheung, Zhaochen Luo, William Ma, Lara J. Martin, Mark O. Riedl
+#  venue: ACL 2019 Workshop of Storytelling (StoryNLP)
+#  location: Florence, Italy
+#  tag: story
+#  official_pdf: https://aclanthology.org/W19-3405/
+#  slides: https://drive.google.com/file/d/1qQgS2j4jhvCs5mnqfAnyY94ZRxrBm6or/view
+#  bib: |+
+#    @inproceedings{ammanabrolu2019guided,
+#    title={{Guided Neural Language Generation for Automated Storytelling}},
+#    author={Ammanabrolu, Prithviraj and Tien, Ethan and Cheung, Wesley and Luo, Zhaochen and Ma, William and Martin, Lara J. and Riedl, Mark O.},
+#    booktitle={{Proceedings of the Second Workshop on Storytelling (StoryNLP) at ACL 2019}},
+#    year={2019},
+#    pages={46--55},
+#    month={8},
+#    doi={10.18653/v1/W19-3405},
+#    publisher={ACL},
+#    url={https://aclanthology.org/W19-3405/},
+#    address={Florence, Italy}
+#    }									
 -
   year: 2018
   title: Dungeons and DQNs&colon; Toward Reinforcement Learning Agents that Play Tabletop Roleplaying Games
@@ -424,7 +425,7 @@
   img: AAAI2018-Event.png
   tag: story
   code: https://github.com/lara-martin/ASTER
-  data: https://www.dropbox.com/s/i5dsk92735jpunf/EventRepresentationDataRelease.zip?dl=0
+  data: https://huggingface.co/datasets/lara-martin/Scifi_TV_Shows #https://www.dropbox.com/s/i5dsk92735jpunf/EventRepresentationDataRelease.zip?dl=0
   bib: |+
     @article{martin2018event,
     title={{Event Representations for Automated Story Generation with Deep Neural Nets}},
