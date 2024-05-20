@@ -6,7 +6,7 @@ layout: page
 ---
 
 
-# About
+# About the LARA Lab
 In this lab, we look at using and improving language tools to make better, human-centered artifical intelligence (AI). We are currently working on reinforcement learning agents for playing <i>Dungeons &amp; Dragons</i>, customizable speech synthesis, and emotional text generation for accessibility.
 
 
