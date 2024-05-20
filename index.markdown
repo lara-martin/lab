@@ -19,7 +19,7 @@ Information Technology and Engineering (ITE) 368
 
 
 {% for group in site.data.people %}
-  {% if group.title != "Alumni" %}
+
 	<h2> {{group.title}} </h2>
 	<div class="table-wrapper">
 	<div class="table-scroll">
@@ -69,5 +69,4 @@ Information Technology and Engineering (ITE) 368
 	</table>
 	</div>
 	</div>
-  {% endif %}
 {% endfor %}
