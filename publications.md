@@ -77,7 +77,7 @@ title: Publications
 													
                 <div class="position-relative mb-4 {{paper.tag}} portfolio-item ">                   
 					{% if paper.img %}<div class="paperImage"><img src="assets/img/{{paper.img}}"></div>{% endif %}
-					{% if paper.type %}<mark>{{paper.type}}</mark>{% endif%}
+					{% if paper.type %}<div class="preprint"><mark>{{paper.type}}</mark></div>{% endif%}
 
                     <i class="far text-primary position-absolute" style="top: 2px; left: -32px;"></i>
                     <h5 class="font-weight-bold mb-1">{{paper.title}}</h5>
