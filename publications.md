@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Publications
 ---
-
+# Publications
 
 <!-- Pubs Start -->
 <div class="container-fluid" id="publications">
