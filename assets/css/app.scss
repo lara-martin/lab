@@ -349,7 +349,7 @@ mark {
 
 .hero.is-primary.is-bold {
 	background-image: url("../img/LARA-lab-white.png");
-  	background-size: 50vh;
+  	background-size: contain;
 	  background-repeat: no-repeat;
 	  background-position-y: center;
 }
