@@ -1,11 +1,12 @@
 <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
 {% for group in site.data.people %}
  {% for person in group.people %}
- 
+ 	
 	<script>
+		if (document.getElementById('email{{person.first}}')) {
 		email{{person.first}} = new scrambledString(document.getElementById('email{{person.first}}'),
 		    'email{{person.first}}', '{{person.emaillist}}', {{person.emailorder}});
-
+		}
 	</script>
 
 {%endfor%}
