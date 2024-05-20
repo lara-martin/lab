@@ -38,15 +38,15 @@
       img: arya-honraopatil.jpeg
       blurb: "Arya Honraopatil is currently pursuing her PhD in Computer Science at UMBC. She received her M.S. in computer science from UMBC and B.S. in computer engineering from University of Pune, India. Her research interests include human-computer interaction (HCI), with a focus on automated story generation, natural language processing, and speech technologies."
     
-    - name: Shawn Bray
-      subtitle: PhD Student in Computer Engineering
-      first: shawn
-      img: bray_shawn.jpeg
-      pronouns: he
-      emaillist: 2abbcdehmnsuuw@.
-      emailorder: "[6,2,5,10,11,14,13,1,9,4,0,8,15,3,7,12]"
-      scholar: https://scholar.google.com/citations?user=YHpyMWEAAAAJ
-      blurb: "Shawn Bray is a PhD student at the Computer Science and Electrical Engineering Department of the University of Maryland, Baltimore County. He received his M.S. in embedded electrical and computer systems, and B.S. in electrical engineering from San Francisco State University. His research interests includes high performance computing for Deep learning, mixed-signal integrated circuit design, computer architecture design for Very Large Scale Integrated (VLSI) design and emerging applications in edge computing."
+    # - name: Shawn Bray
+    #   subtitle: PhD Student in Computer Engineering
+    #   first: shawn
+    #   img: bray_shawn.jpeg
+    #   pronouns: he
+    #   emaillist: 2abbcdehmnsuuw@.
+    #   emailorder: "[6,2,5,10,11,14,13,1,9,4,0,8,15,3,7,12]"
+    #   scholar: https://scholar.google.com/citations?user=YHpyMWEAAAAJ
+    #   blurb: "Shawn Bray is a PhD student at the Computer Science and Electrical Engineering Department of the University of Maryland, Baltimore County. He received his M.S. in embedded electrical and computer systems, and B.S. in electrical engineering from San Francisco State University. His research interests includes high performance computing for Deep learning, mixed-signal integrated circuit design, computer architecture design for Very Large Scale Integrated (VLSI) design and emerging applications in edge computing."
       
 
 
