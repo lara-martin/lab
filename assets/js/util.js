@@ -584,4 +584,8 @@
 
 	};
 
+	$('.expand-link').click(function(){
+	    $('.expand-content').slideToggle('slow');
+	});
+
 })(jQuery);
