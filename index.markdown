@@ -19,10 +19,10 @@ Information Technology and Engineering (ITE) 368
 
 {% for group in site.data.people %}
 {% if group.title == "Lab Alumni" %}
-	<h2 class="expand-link"><a href="#">Lab Alumni</a></h2>
+	<div class<h2 class="expand-link"><a href="#">Lab Alumni</a></h2>
  	<div class="expand-content">
 {% else %}
-<h2> {{group.title}} </h2>
+	<h2> {{group.title}} </h2>
 {% endif %}
 <div class="table-wrapper">
 <div class="table-scroll">
@@ -64,9 +64,7 @@ Information Technology and Engineering (ITE) 368
 	 <br><div class="bio" aria-label="about {{person.name}}">{{person.blurb}}</div>
 	 {% endif %}
 	</td>
-{% if group.title == "Lab Alumni" %}
-  </div>
-{% endif %}
+{% if group.title == "Lab Alumni" %}</div>{% endif %}
 
   {% endfor %}
   </tr>
