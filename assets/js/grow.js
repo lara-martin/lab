@@ -30,3 +30,12 @@ $(".collapsible").on('click', function(e){
 	    //setTimeout(() => {$(notification).css({"opacity":"0"});}, 2000);
 	}
 });
+
+
+$(document).ready(function() {
+
+    $(".expand-link").click(function() {
+        $(".expand-content").slideToggle('slow');
+    });
+});
+	

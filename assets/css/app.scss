@@ -365,3 +365,11 @@ mark {
 .expand-content {
     display:none;
 }
+
+.expand-link{
+    color: var(--bulma-link-text);
+}
+
+.expand-link:hover{
+    cursor: pointer;
+}
