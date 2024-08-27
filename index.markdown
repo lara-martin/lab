@@ -18,7 +18,7 @@ Information Technology and Engineering (ITE) 368
 # Lab Members
 
 {% for group in site.data.people %}
-{% if group.title == "Lab Alumni" %}<br><div class="expand-link"><h2>Lab Alumni</h2></div> <div class="expand-content">
+{% if group.title == "Lab Alumni" %}<br> <div class="expand-link"><h2>Lab Alumni</h2></div> <div class="expand-content">
 {% else %} <h2> {{group.title}} </h2>{% endif %}
 
 <div class="table-wrapper">
