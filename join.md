@@ -2,7 +2,7 @@
 layout: page
 title: Joining the Lab
 ---
-<small>(updated 8/28/2024)</small>
+<small>(updated 9/6/2024)</small>
 
 ## What NOT to do:
 * Please do not call me Mam/Ma'am. It does not match my gender identity and makes me very uncomfortable. Stick to Doctor/Dr. Martin, Professor/Prof. Martin, or even just Lara.
@@ -10,7 +10,8 @@ title: Joining the Lab
         
 ## What to do:
 ### For current UMBC Masters/Undergrads:
-I've been getting a lot more interest than I can support. I'd like to get to know students before working with them. To give everyone an equal chance, I will get to know students through the classes that I teach. If you'd like to work with me, please enroll in whatever class I'm teaching. If you can't get into the class and you have done previous work related to NLP, you can request to join my weekly lab meeting where we talk about current projects and sometimes go over papers together.
+I've been getting a lot more interest than I can support, so I am currently not taking on any new students.
+<!--I'd like to get to know students before working with them. To give everyone an equal chance, I will get to know students through the classes that I teach. If you'd like to work with me, please enroll in whatever class I'm teaching. If you can't get into the class and you have done previous work related to NLP, you can request to join my weekly lab meeting where we talk about current projects and sometimes go over papers together.-->
 	
         
 ### For prospective PhD students:
