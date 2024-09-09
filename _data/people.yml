@@ -72,7 +72,13 @@
       website: http://www.shadabchy.com/
       first: shadab
       subtitle: MS Student in Computer Science  
-    
+    - name: Dedeepya Palakurthi
+      img: dedeepya-palakurthi.jpg
+      pronouns:
+      first: dedeepya
+      emaillist: 44579bcdemuuxz@.
+      emailorder: "[3,4,6,2,5,10,11,13,9,8,15,0,1]"     
+      subtitle: MPS Student in Data Science
     - name: Naren Sivakumar
       pronouns: he
       first: naren
@@ -80,7 +86,6 @@
       emailorder: "[6,1,10,11,14,3,13,9,0,4,2,5,8,15,7,12]" 
       subtitle: MS Student in Computer Science
       website: http://falcon10056.github.io
-    
     - name: June Young
       pronouns: she/they
       first: june
