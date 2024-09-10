@@ -16,6 +16,8 @@ I've been getting a lot more interest than I can support, so I am currently not 
         
 ### For prospective PhD students:
 I am currently looking for a PhD student to work on Augmentative and Alternative Communication (AAC) research with me. You can read more about the preliminary work I've done in the space here: [https://arxiv.org/abs/2404.17730](https://arxiv.org/abs/2404.17730)
+<br>
+If you are interested in working with me, please apply to [UMBC's CS PhD](https://www.csee.umbc.edu/graduate/computer-science-m-s-ph-d/) and mention me in your statement of purpose.
 	
 
 ## Funding
