@@ -7,8 +7,7 @@ layout: page
 
 
 # About the LARA Lab
-In this lab, we look at using and improving language tools to make better, human-centered artificial intelligence (AI). We are currently working on reinforcement learning agents for playing <i>Dungeons &amp; Dragons</i>, customizable speech synthesis, and emotional text generation for accessibility.
-
+In this lab, we look at using and improving language tools to make better, human-centered artificial intelligence (AI) by looking at how people communicate and creating computer-supported human communication tools. To find out more about what we're currently working on, check out the <a href="projects.html" aria-label="projects page">Projects</a> page.
 
 #### Location
 Information Technology and Engineering (ITE) 368
@@ -42,6 +41,7 @@ Information Technology and Engineering (ITE) 368
 	 <br>
 	 <h4 style="display: inline;">{{person.name}}</h4>{% if person.subtitle %}, {{person.subtitle}}{% endif %}<br>
 	 <div aria-label="pronouns">{{person.pronouns}}</div>
+	 {% if person.advisor %} Advisor: <a href="{{person.advisor_link}}" aria-label="{{person.advisor}}'s website">{{person.advisor}}</a>{%endif%}
 	 {% if person.website %}
 	 [<a href="{{person.website}}" aria-label="{{person.name}}'s website">website</a>]
 	 {% endif %}

@@ -1,0 +1,46 @@
+#-
+#  year: 
+#  title: 
+#  authors:
+#  venue:
+#  pdf:
+#  official_pdf:
+#  arxiv:
+#  slides:
+#  poster:
+#  code:
+#  data:
+#  bib:
+#  website:
+
+-
+  start: 2024
+  title: Reinforcement Learning Agent for Playing Dungeons and Dragons
+  people: Patty Delafuente, Arya Honraopatil, Saksham Kumar Sharma
+  about: 
+  pubs:
+  
+-
+  start: 2024
+  title: Customizable Text-to-Speech for Transgender People
+  people: June Young, Shawn Bray
+  
+-
+  start: 2024
+  title: Predicting Country Actions
+  people: Naren Sivakumar
+  
+-
+  start: 2024
+  title: Sentence Generation for Augmentative and Alternative Communication (AAC)
+  people: Shadab Choudhury, Asha Kumar
+  
+-
+  start: 2024
+  title: Text-to-Speech for Storytelling
+  people: Arya Honraopatil, Sai Vallurupalli
+
+-
+  start: 2024
+  title: Named Entity Extraction from Obituaries
+  people: Dedeepya Palakurthi, Ashish Athimamula
