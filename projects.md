@@ -16,6 +16,7 @@ _{{project.about}}_
 {% for curr_pub in project.pubs %}
 {% if pub.title == curr_pub.title %}
 * **<a href="{%if pub.official_pdf%}{{pub.official_pdf}}{% else %}{{pub.arxiv}}">{{pub.title}}</a>** ({{pub.year}})
+{%endif%}
 {% endfor %}
 {% endfor %}
 	
