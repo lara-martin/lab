@@ -28,7 +28,7 @@ github_username:  lara-martin
 
 # Build settings
 #theme: bulma-clean-theme
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
