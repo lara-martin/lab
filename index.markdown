@@ -41,7 +41,6 @@ Information Technology and Engineering (ITE) 368
 	 <br>
 	 <h4 style="display: inline;">{{person.name}}</h4>{% if person.subtitle %}, {{person.subtitle}}{% endif %}<br>
 	 <div aria-label="pronouns">{{person.pronouns}}</div>
-	 {% if person.advisor %} Advisor: <a href="{{person.advisor_link}}" aria-label="{{person.advisor}}'s website">{{person.advisor}}</a>{%endif%}
 	 {% if person.website %}
 	 [<a href="{{person.website}}" aria-label="{{person.name}}'s website">website</a>]
 	 {% endif %}
@@ -56,6 +55,7 @@ Information Technology and Engineering (ITE) 368
 	 {% if person.mastodon %}
 	 [<a href="{{person.mastodon}}" aria-label="{{person.name}}'s mastodon account">social</a>]
 	 {% endif %}
+	 {% if person.advisor %}<br>Advisor: <a href="{{person.advisor_link}}" aria-label="{{person.advisor}}'s website">{{person.advisor}}</a>{%endif%}
 	 {% if person.blurb %}
 	 <br><div class="bio" aria-label="about {{person.name}}">{{person.blurb}}</div>
 	 {% endif %}

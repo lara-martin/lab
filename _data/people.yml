@@ -59,6 +59,12 @@
       advisor: Patti Ordóñez
       advisor_link: https://informationsystems.umbc.edu/home/faculty-and-staff/faculty/patti-ordonez-ph-d/
       scholar: https://scholar.google.com/citations?hl=en&user=bbKjxMMAAAAJ
+    - name: Marcus McAllister
+      pronouns: he
+      first: marcus
+      subtitle: PhD Student in Computer Science
+      emaillist: 2abccdeillmmmuu@.
+      emailorder: "[7,3,11,12,2,15,14,6,4,5,0,1,10,9,16,8,13]"        
     - name: Sai Vallurupalli
       first: sai
       subtitle: PhD Student in Computer Science
@@ -68,11 +74,7 @@
       emaillist: bcdeikllmouu@.
       emailorder: "[8,9,12,11,4,0,2,3,7,1,6,13,5,10]"
       scholar: https://scholar.google.com/citations?user=K3F-wdMAAAAJ&hl=en
-    - name: Marcus McAllister
-      pronouns: he
-      first: marcus
-      emaillist: 2abccdeillmmmuu@.
-      emailorder: "[7,3,11,12,2,15,14,6,4,5,0,1,10,9,16,8,13]"      
+    
 
 
 - title: Masters Students
@@ -98,6 +100,13 @@
       emaillist: 44579bcdemuuxz@.
       emailorder: "[3,4,6,2,5,10,11,14,13,9,8,15,0,1,7,12]"     
       subtitle: MPS Student in Data Science
+    - name: Saksham Kumar Sharma
+      pronouns: he
+      first: saksham
+      img: saksham-sharma.jpg
+      subtitle: MS Student in Computer Science
+      emaillist: 8aabcdehmmrssuu@.
+      emailorder: "[7,6,3,11,12,15,14,2,5,10,4,0,1,9,16,8,13]"      
     - name: Naren Sivakumar
       pronouns: he
       first: naren
@@ -112,12 +121,7 @@
       emaillist: 04bcdeehjmopsuu@.
       emailorder: "[7,6,11,12,15,3,14,5,0,10,1,4,2,9,16,8,13]" 
       subtitle: MS Student in Computer Science
-    - name: Saksham Kumar Sharma
-      pronouns: he
-      first: saksham
-      img: saksham-sharma.jpg
-      emaillist: 8aabcdehmmrssuu@.
-      emailorder: "[7,6,3,11,12,15,14,2,5,10,4,0,1,9,16,8,13]"
+
       
 
     
