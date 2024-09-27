@@ -64,7 +64,8 @@
       first: marcus
       subtitle: PhD Student in Computer Science
       emaillist: 2abccdeillmmmuu@.
-      emailorder: "[7,3,11,12,2,15,14,6,4,5,0,1,10,9,16,8,13]"        
+      emailorder: "[7,3,11,12,2,15,14,6,4,5,0,1,10,9,16,8,13]"
+      img: Marcus-McAllister.jpg  
     - name: Sai Vallurupalli
       first: sai
       subtitle: PhD Student in Computer Science
