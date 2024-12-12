@@ -34,6 +34,9 @@ plugins:
   - jekyll-remote-theme
 
 fixed_navbar: top
+jobs:
+  jobName:
+    runs-on: ubuntu-22.04
 
 # Exclude from processing.
 # The following items will not be processed, by default.
