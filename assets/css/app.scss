@@ -377,3 +377,11 @@ mark {
 .navbar.is-primary .navbar-burger {
 	margin-right: 2.5em;
 }
+
+.link {
+	color: hsl(229, 53%, 53%);
+}
+
+.link:hover {
+	color: hsl(0, 0%, 29%);
+}
