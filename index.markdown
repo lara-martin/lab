@@ -46,11 +46,6 @@ Information Technology and Engineering (ITE) 368
 	 {% if person.website %}
 	 [<a href="{{person.website}}" aria-label="{{person.name}}'s website">website</a>]
 	 {% endif %}
-	 {% if person.emaillist %}
-	 [<div id="email{{person.first}}" style="display:inline;"> 
-		<noscript><i>Please enable Javascript to view</i></noscript>
-	</div>]
-	 {% endif %}
 	 {% if person.scholar %}
 	 [<a href="{{person.scholar}}" aria-label="{{person.name}}'s Google Scholar">scholar</a>]
 	 {% endif %}
