@@ -15,12 +15,34 @@
 
 -
   year: 2024
+  title: "WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models"
+  authors: Runsheng "Anson" Huang, Lara J. Martin, Chris Callison-Burch
+  arxiv: https://arxiv.org/abs/2412.10582
+  type: Preprint
+  img: what-if-UI-filled.png
+  venue: arXiv preprint arXiv:2412.10582
+  tag: story
+  bib: |+
+    @report{Huang2024WHAT-IF,
+    title={{WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models}},
+    author={Huang, Runsheng "Anson" and Martin, Lara J. and Callison-Burch, Chris},
+    year={2024},
+    eprint={2412.10582},
+    archivePrefix={arXiv},
+    url={https://arxiv.org/abs/2412.10582},
+    doi={10.48550/arXiv.2412.10582},
+    month={12}
+    }
+
+-
+  year: 2024
   title: "BERALL: Generating Retrieval-augmented State-based Interactive Fiction Games"
   authors: Rachel Chambers, Naomi Tack, Eliot Pearson, Lara J. Martin, Francis Ferraro
   venue: "4th Wordplay: When Language Meets Games Workshop @ ACL 2024"
   tag: story
   location: Bangkok, Thailand
   official_pdf: https://wordplay-workshop.github.io/pdfs/21.pdf
+  type: Workshop
   img: BERALL.png
   bib: |+
     @inproceedings{Chambers2024BERALL,
@@ -61,6 +83,7 @@
   arxiv: https://arxiv.org/abs/2308.07540
   official_pdf: https://ojs.aaai.org/index.php/AIIDE/article/view/27534
   img: calypso.png
+  type: Conference
   venue: AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE)
   location: Salt Lake City, UT
   tag: dnd
@@ -89,6 +112,7 @@
   authors: Tianyi Zhang, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch
   arxiv: https://arxiv.org/abs/2302.13048
   img: schema.png
+  type: System Demonstration
   official_pdf: https://aclanthology.org/2023.acl-demo.1/
   website: https://www.youtube.com/watch?v=myru-fozVWI
   venue: ACL Demonstrations
@@ -117,6 +141,7 @@
   official_pdf: https://aclanthology.org/2023.acl-long.229/
   img: fireball.png
   tag: dnd
+  type: Conference
   data: https://huggingface.co/datasets/lara-martin/FIREBALL
   code: https://github.com/zhudotexe/FIREBALL
   venue: Annual Meeting of the Association for Computational Linguistics (ACL)
@@ -146,6 +171,7 @@
   arxiv: https://arxiv.org/abs/2212.10754
   img: corrpus.png
   tag: understanding
+  type: Conference
   venue: Findings of ACL
   code: https://github.com/dong-river/CoRRPUS
   official_pdf: https://aclanthology.org/2023.findings-acl.832/
@@ -174,6 +200,7 @@
   arxiv: https://arxiv.org/abs/2301.08104
   official_pdf: https://ojs.aaai.org/index.php/ICWSM/article/view/22141
   img: AITA.png
+  type: Conference
   location: Limassol, Cyprus
   slides: slides/Giorgi-et-al_AITA.pdf
   tag: social
@@ -204,6 +231,7 @@
   authors: Chris Callison-Burch, Gaurav Singh Tomar, Lara J. Martin, Daphne Ippolito, Suma Bailis, David Reitter
   venue: Conference on Empirical Methods in Natural Language Processing (EMNLP)
   location: Abu Dhabi, UAE
+  type: Conference
   poster: poster/EMNLP2022-DnD.pdf
   pdf: 2022.emnlp-main.637.pdf
   arxiv: https://arxiv.org/abs/2210.07109
@@ -232,6 +260,7 @@
   title: "Using Language Models to Convert Between Natural Language and Game Commands"
   authors: Stefan Papazov, Wesley Gill, Marta García Ferreiro, Andrew Zhu, Lara J. Martin, Chris Callison-Burch
   venue: NAACL 2022 Wordplay Workshop
+  type: Workshop
   location: Seattle, Washington
   official_pdf: https://openreview.net/forum?id=jQSStHwtmDN
   poster: https://docs.google.com/presentation/d/17kvH4o2R-Mj62BK-IoL7qi6qZMW52xAtkNsoMLFbBu0/edit?usp=sharing
@@ -273,6 +302,7 @@
   authors: Bryan Li, Lara J. Martin, Chris Callison-Burch
   venue: ACL 2022 Workshop on Commonsense Representation and Reasoning (CSRR)
   location: Dublin, Ireland
+  type: Workshop
   official_pdf: https://openreview.net/forum?id=Se-xHMYg_bc
   poster: poster/Li_Martin_Callison-Burch_CIS2-poster.pdf
   arxiv: https://arxiv.org/abs/2202.07880
@@ -298,6 +328,7 @@
   year: 2021
   title: Neurosymbolic Automated Story Generation
   authors: Lara J. Martin
+  type: Thesis
   venue: Thesis, Georgia Institute of Technology
   official_pdf: http://hdl.handle.net/1853/64643
   pdf: LaraMartin-Thesis.pdf
@@ -336,6 +367,7 @@
   authors: Prithviraj Ammanabrolu, Ethan Tien, Wesley Cheung, Zhaochen Luo, William Ma, Lara J. Martin, Mark O. Riedl
   venue: AAAI Conference on Artificial Intelligence (AAAI)
   location: New York, NY
+  type: Conference
   tag: story
   img: AAAI2020-Story.png
   official_pdf: https://ojs.aaai.org//index.php/AAAI/article/view/6232
@@ -367,6 +399,7 @@
   authors: Pradyumna Tambwekar, Murtaza Dhuliawala, Lara J. Martin, Animesh Mehta, Brent Harrison, Mark O. Riedl
   venue: International Joint Conference on Artificial Intelligence (IJCAI)
   location: Macao, China
+  type: Conference
   tag: story
   img: IJCAI2019-Controllable.png
   official_pdf: https://www.ijcai.org/proceedings/2019/829
@@ -416,6 +449,7 @@
   authors: Lara J. Martin, Srijan Sood, Mark O. Riedl
   venue: AAAI 2018 Workshop on Intelligent Narrative Technologies (INT)
   location: Edmonton, AB, Canada
+  type: Workshop
   pdf: Martin-Dungeons-n-DQNs.pdf
   official_pdf: https://ceur-ws.org/Vol-2321/paper4.pdf
   slides: slides/Martin-INT18-DungeonsnDQNs-slides.pdf
@@ -438,6 +472,7 @@
   authors: Lara J. Martin, Prithviraj Ammanabrolu, Xinyu Wang, William Hancock, Shruti Singh, Brent Harrison, Mark O. Riedl
   venue: AAAI Conference on Artificial Intelligence (AAAI)
   location: New Orleans, LA
+  type: Conference
   official_pdf: https://ojs.aaai.org/index.php/AAAI/article/view/11430
   arxiv: https://arxiv.org/abs/1706.01331
   poster: poster/Martin-aaai18-poster.pdf
@@ -466,6 +501,7 @@
   authors: Lara J. Martin, Prithviraj Ammanabrolu, Xinyu Wang, Shruti Singh, Brent Harrison, Murtaza Dhuliawala, Pradyumna Tambwekar, Animesh Mehta, Richa Arora, Nathan Dass, Chris Purdy, Mark O. Riedl
   venue: NeurIPS 2017 Workshop on Machine Learning for Creativity and Design
   location: Long Beach, CA
+  type: Workshop
   pdf: NeurIPS-Creativity-17-improvisational-storytelling-agents.pdf
   official_pdf: https://nips2017creativity.github.io/doc/Improvisational_Agents.pdf
   poster: poster/NeurIPS17-ImprovStorytellingPoster.pdf
@@ -495,6 +531,7 @@
   authors: Lara J. Martin, Brent Harrison, Mark O. Riedl
   venue: International Conference on Interactive Digital Storytelling (ICIDS)
   location: Los Angeles, CA
+  type: Conference
   pdf: Martin_ICIDS2016.pdf
   slides: slides/ICIDS2016_MartinHarrisonRiedl_slides.pdf
   official_pdf: https://link.springer.com/chapter/10.1007/978-3-319-48279-8_7
@@ -518,6 +555,7 @@
   authors: Lara J. Martin, Andrew Wilkinson, Sai Sumanth Miryala, Vivian Robison, Alan W Black
   venue: IEEE Automatic Speech Recognition and Understanding Workshop (ASRU)
   location: Scottsdale, AZ
+  type: Conference
   official_pdf: https://ieeexplore.ieee.org/document/7404809
   pdf: ASRU2015_MartinEtAl.pdf
   poster: poster/MartinASRU2015Poster.pdf
@@ -542,6 +580,7 @@
   authors: Lara J. Martin, Matthew Stone, Florian Metze, Jack Mostow
   venue: IEEE Spoken Language Technology Workshop (SLT)
   location: South Lake Tahoe, NV
+  type: Conference
   official_pdf: https://ieeexplore.ieee.org/document/7078556
   pdf: SLT14-Uncertainty.pdf
   poster: poster/LaraMartinSLT2014Poster.pdf
@@ -566,6 +605,7 @@
   authors: Seungwhan Moon, Saloni Potdar, Lara J. Martin
   venue: EMNLP 2014 Workshop on Analysis of Large Scale Social Interaction in MOOCs
   location: Doha, Qatar
+  type: Workshop
   official_pdf: https://www.aclweb.org/anthology/W14-4103/
   img: EMNLPWorkshop2014-Identifying.png
   tag: social
@@ -585,6 +625,7 @@
   authors: Nikolas Wolfe, Vinay Vyas Vemuri, Lara J. Martin, Florian Metze, Alan W Black
   venue: CHI 2014 Workshop on Designing Speech and Language Interactions
   location: Toronto, Canada
+  type: Workshop
   pdf: CHI14-Applause.pdf
   official_pdf: http://www.cs.toronto.edu/dsli2014/submissions/applause-chi-paper-photo-ready.pdf
   img: CHIWorkshop2014-Applause.png
