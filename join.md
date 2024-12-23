@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Joining the Lab
 ---
+# Joining the Lab
 <small>(updated 9/6/2024)</small>
 
 ## What NOT to do:
