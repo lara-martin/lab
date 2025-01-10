@@ -1,5 +1,6 @@
 ---
 layout: page
+active_tab: publications
 ---
 # Publications
 

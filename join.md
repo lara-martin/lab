@@ -1,5 +1,6 @@
 ---
 layout: page
+active_tab: join
 ---
 # Joining the Lab
 <small>(updated 9/6/2024)</small>

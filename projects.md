@@ -1,5 +1,6 @@
 ---
 layout: page
+active_tab: projects
 ---
 # Ongoing Projects
 
