@@ -37,19 +37,19 @@
       subtitle: PhD Student in Computer Science
       img: arya-honraopatil.jpeg
       blurb: "Arya Honraopatil is currently pursuing her PhD in Computer Science at UMBC. She received her M.S. in computer science from UMBC and B.S. in computer engineering from University of Pune, India. Her research interests include human-computer interaction (HCI), with a focus on automated story generation, natural language processing, and speech technologies."
-
+      
+    - name: Marcus McAllister
+      pronouns: he
+      first: marcus
+      subtitle: PhD Student in Computer Science
+      emaillist: 2abccdeillmmmuu@.
+      emailorder: "[7,3,11,12,2,15,14,6,4,5,0,1,10,9,16,8,13]"
+      img: Marcus-McAllister.jpg 
+      coadvisor: Cynthia Matuszek
+      coadvisor_link: https://userpages.cs.umbc.edu/cmat/
+      
 - title: Affiliated PhD Students
   people:
-    - name: Shawn Bray
-      subtitle: PhD Student in Computer Engineering
-      first: shawn
-      img: bray_shawn.jpeg
-      pronouns: he
-      emaillist: 2abbcdehmnsuuw@.
-      emailorder: "[6,2,5,10,11,14,13,1,9,4,0,8,15,3,7,12]"
-      scholar: https://scholar.google.com/citations?user=YHpyMWEAAAAJ
-      advisor: Dong Li
-      advisor_link: https://leetton.github.io/
     - name: Asha Kumar
       first: asha
       subtitle: PhD Student in Human-Centered Computing
@@ -59,13 +59,7 @@
       advisor: Patti Ordóñez
       advisor_link: https://informationsystems.umbc.edu/home/faculty-and-staff/faculty/patti-ordonez-ph-d/
       scholar: https://scholar.google.com/citations?hl=en&user=bbKjxMMAAAAJ
-    - name: Marcus McAllister
-      pronouns: he
-      first: marcus
-      subtitle: PhD Student in Computer Science
-      emaillist: 2abccdeillmmmuu@.
-      emailorder: "[7,3,11,12,2,15,14,6,4,5,0,1,10,9,16,8,13]"
-      img: Marcus-McAllister.jpg  
+ 
     - name: Sai Vallurupalli
       first: sai
       subtitle: PhD Student in Computer Science
@@ -79,13 +73,7 @@
 
 
 - title: Masters Students
-  people:
-    - name: Ashish Athimamula
-      emaillist: 24455abcdekmuu@.
-      emailorder: "[3,2,4,5,6,1,10,11,14,13,0,9,8,15,7,12]"      
-      pronouns: he
-      first: ashish
-      subtitle: MS Student in Computer Science  
+  people: 
     - name: Shadab Choudhury
       emaillist: 1aabbccddehmsuu@.
       emailorder: "[7,2,4,5,11,6,12,3,15,14,1,10,0,9,16,8,13]"      
@@ -93,21 +81,7 @@
       img: shadab-choudhury.png
       website: http://www.shadabchy.com/
       first: shadab
-      subtitle: MS Student in Computer Science  
-    - name: Dedeepya Palakurthi
-      img: dedeepya-palakurthi.jpg
-      pronouns: she
-      first: dedeepya
-      emaillist: 44579bcdemuuxz@.
-      emailorder: "[3,4,6,2,5,10,11,14,13,9,8,15,0,1,7,12]"     
-      subtitle: MPS Student in Data Science
-    - name: Saksham Kumar Sharma
-      pronouns: he
-      first: saksham
-      img: saksham-sharma.JPG
-      subtitle: MS Student in Computer Science
-      emaillist: 8aabcdehmmrssuu@.
-      emailorder: "[7,6,3,11,12,15,14,2,5,10,4,0,1,9,16,8,13]"      
+      subtitle: MS Student in Computer Science      
     - name: Naren Sivakumar
       pronouns: he
       first: naren
@@ -116,12 +90,7 @@
       subtitle: MS Student in Computer Science
       website: http://falcon10056.github.io
       img: naren-sivakumar.jpg
-    - name: June Young
-      pronouns: she/they
-      first: june
-      emaillist: 04bcdeehjmopsuu@.
-      emailorder: "[7,6,11,12,15,3,14,5,0,10,1,4,2,9,16,8,13]" 
-      subtitle: MS Student in Computer Science
+
 
       
 
@@ -136,5 +105,43 @@
          pronouns: she
          first: tori
          subtitle: BS Student in Computer Science
+   - type: Affiliated PhD Students
+     people:  
+       - name: Shawn Bray
+        subtitle: PhD Student in Computer Engineering
+        first: shawn
+        img: bray_shawn.jpeg
+        pronouns: he
+        emaillist: 2abbcdehmnsuuw@.
+        emailorder: "[6,2,5,10,11,14,13,1,9,4,0,8,15,3,7,12]"
+        scholar: https://scholar.google.com/citations?user=YHpyMWEAAAAJ      
+   - type: Masters Students
+     people: 
+      - name: Ashish Athimamula
+        emaillist: 24455abcdekmuu@.
+        emailorder: "[3,2,4,5,6,1,10,11,14,13,0,9,8,15,7,12]"      
+        pronouns: he
+        first: ashish
+        subtitle: MS Student in Computer Science      
+      - name: Dedeepya Palakurthi
+        img: dedeepya-palakurthi.jpg
+        pronouns: she
+        first: dedeepya
+        emaillist: 44579bcdemuuxz@.
+        emailorder: "[3,4,6,2,5,10,11,14,13,9,8,15,0,1,7,12]"     
+        subtitle: MPS Student in Data Science
+      - name: Saksham Kumar Sharma
+        pronouns: he
+        first: saksham
+        img: saksham-sharma.JPG
+        subtitle: MS Student in Computer Science
+        emaillist: 8aabcdehmmrssuu@.
+        emailorder: "[7,6,3,11,12,15,14,2,5,10,4,0,1,9,16,8,13]"       
+      - name: June Young
+        pronouns: she/they
+        first: june
+        emaillist: 04bcdeehjmopsuu@.
+        emailorder: "[7,6,11,12,15,3,14,5,0,10,1,4,2,9,16,8,13]" 
+        subtitle: MS Student in Computer Science        
       
     
