@@ -250,7 +250,7 @@ body .uwy.userway_p1 .uai {
 }
 .btn-sm, .btn-group-sm > .btn {
   padding: 0.25rem 0.5rem;
-  font-size: 0.875rem;
+  font-size: 0.8rem;
   line-height: 1.5;
   border-radius: 0.2rem;
 }
@@ -397,4 +397,9 @@ a{
 
 a.navbar-item{
 	text-decoration: none !important;
+}
+
+.category-sort-title{
+	margin-bottom: -10px;
+	font-weight: bold;
 }

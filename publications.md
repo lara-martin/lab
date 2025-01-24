@@ -8,20 +8,14 @@ active_tab: publications
 <div class="container-fluid" id="publications">
 	<div class="row align-items-center">
 	
-        <h3>Sort by Topic</h3>
+        <div class="category-sort-title">Sort by Topic</div>
         <div class="col-12 mb-2">
             <ul class="list-inline mb-4" id="portfolio-flters">
-                <li class="btn btn-sm btn-outline-primary m-1 active"  data-filter="*">All</li>
-                <li class="btn btn-sm btn-outline-primary m-1" data-filter="aac">Augmentative and Alternative Communication (AAC)</li>
-                <li class="btn btn-sm btn-outline-primary m-1" data-filter="dnd">Dungeons & Dragons</li> 
-                <li class="btn btn-sm btn-outline-primary m-1" data-filter="speech">Speech</li>
-                <li class="btn btn-sm btn-outline-primary m-1" data-filter="social">Social Media</li>
-                <li class="btn btn-sm btn-outline-primary m-1" data-filter="story">Story Generation</li>
-                <li class="btn btn-sm btn-outline-primary m-1" data-filter="understanding">Story Understanding</li>
+                <li class="btn btn-sm btn-outline-primary m-1 active"  data-filter="*">All</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="aac">Augmentative and Alternative Communication (AAC)</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="dnd">Dungeons & Dragons</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="speech">Speech</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="social">Social Media</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="story">Story Generation</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="understanding">Story Understanding</li>
             </ul>
         </div>
 
-        <h3>Jump to Year</h3>
+        <div class="category-sort-title">Jump to Year</div>
         <div class="col-12 mb-2">
             <ul class="list-inline mb-4">
 		{% assign now = 'now'  | date: "%Y" %}

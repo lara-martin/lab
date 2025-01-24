@@ -25,7 +25,7 @@
 
 -
   title: AI Agents for Playing Dungeons and Dragons
-  people: Patty Delafuente, Arya Honraopatil, Saksham Kumar Sharma
+  people: Patty Delafuente, Arya Honraopatil
   img: 
   about: <a href="https://en.wikipedia.org/wiki/Dungeons_%26_Dragons" aria-label="wikipedia page for dungeons and dragons">Dungeons & Dragons (D&D)</a> is a tabletop roleplaying game originally created in the 1970s. Now that we've seen AI that can play games like <a href="http://www.nature.com/doifinder/10.1038/nature16961">Go</a>, <a href="http://arxiv.org/abs/1912.06680">DotA 2</a>, or <a href="https://www.science.org/doi/10.1126/science.ade9097">Diplomacy</a>, I believe D&D is the next big challenge in AI. The game lends itself to a <a href="https://ceur-ws.org/Vol-2321/paper4.pdf">variety of interesting problems</a> where players have to use skills in Theory of Mind and improvisational storytelling, all while following the rules of the game. 
   pubs:
@@ -36,7 +36,7 @@
 
 -
   title: Community-Sensitive NLP Tools for Augmentative and Alternative Communication (AAC)
-  people: Shadab Choudhury, Asha Kumar, Marcus McAllister
+  people: Shadab Choudhury, Asha Kumar
   about: <a href="https://www.asha.org/public/speech/disorders/aac/" aria-label="the American Speech-Language-Hearing Association's explanation of AAC">Augmentative and Alternative Communication (AAC)</a> tools have been largely ignored by the natural language processing community. However, even though it has been an exciting time in NLP, we must implement such tools with caution &ndash; taking into consideration what AAC users actually want. I am interested in improving AAC by bringing their technology to the era of ChatGPT without sacrificing users' autonomy, privacy, or personality.
   pubs:
     - title: "Bridging the Social & Technical Divide in Augmentative and Alternative Communication (AAC) Applications for Autistic Adults"
@@ -44,7 +44,7 @@
  
 -
   title: Customizable and Emotive Speech Synthesis
-  people: Arya Honraopatil, June Young, Shawn Bray, Sai Vallurupalli
+  people: Arya Honraopatil, Sai Vallurupalli
   img:
   about: Now that transformer models have greatly improved speech synthesis (also called text-to-speech/TTS) capabilities, I believe the next step is to make voices that can emulate the rich tapestry of people's voice qualities.
    
