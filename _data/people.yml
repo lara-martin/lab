@@ -108,13 +108,13 @@
    - type: Affiliated PhD Students
      people:  
        - name: Shawn Bray
-        subtitle: PhD Student in Computer Engineering
-        first: shawn
-        img: bray_shawn.jpeg
-        pronouns: he
-        emaillist: 2abbcdehmnsuuw@.
-        emailorder: "[6,2,5,10,11,14,13,1,9,4,0,8,15,3,7,12]"
-        scholar: https://scholar.google.com/citations?user=YHpyMWEAAAAJ      
+         subtitle: PhD Student in Computer Engineering
+         first: shawn
+         img: bray_shawn.jpeg
+         pronouns: he
+         emaillist: 2abbcdehmnsuuw@.
+         emailorder: "[6,2,5,10,11,14,13,1,9,4,0,8,15,3,7,12]"
+         scholar: https://scholar.google.com/citations?user=YHpyMWEAAAAJ      
    - type: Masters Students
      people: 
       - name: Ashish Athimamula
