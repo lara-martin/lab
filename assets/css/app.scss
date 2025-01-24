@@ -366,8 +366,11 @@ mark {
     display:none;
 }
 
-.expand-link.h2{
+.expand-link > .h2{
     color: var(--bulma-link-text);
+}
+.expand-link{
+	text-decoration: underline dotted black;
 }
 
 .expand-link:hover{
@@ -384,4 +387,14 @@ mark {
 
 .link:hover {
 	color: hsl(0, 0%, 29%);
+}
+
+
+
+a{
+	text-decoration: underline dotted black;
+}
+
+a.navbar-item{
+	text-decoration: none !important;
 }
