@@ -14,6 +14,13 @@ active_tab: publications
                 <li class="btn btn-sm btn-outline-primary m-1 active"  data-filter="*">All</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="aac">Augmentative and Alternative Communication (AAC)</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="dnd">Dungeons & Dragons</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="speech">Speech</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="social">Social Media</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="story">Story Generation</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="understanding">Story Understanding</li>
             </ul>
         </div>
+        
+        <div class="category-sort-title">Sort by Venue Type</div>
+        <div class="col-12 mb-2">
+            <ul class="list-inline mb-4" id="portfolio-flters">
+                <li class="btn btn-sm btn-outline-primary m-1 active"  data-filter="*">All</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="Conference">Conference</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="Workshop">Workshop</li><li class="btn btn-sm btn-outline-primary m-1" data-filter="Preprint">Preprint</li>
+            </ul>
+        </div>
 
         <div class="category-sort-title">Jump to Year</div>
         <div class="col-12 mb-2">

@@ -112,10 +112,10 @@
   authors: Tianyi Zhang, Isaac Tham, Zhaoyi Hou, Jiaxuan Ren, Liyang Zhou, Hainiu Xu, Li Zhang, Lara J. Martin, Rotem Dror, Sha Li, Heng Ji, Martha Palmer, Susan Brown, Reece Suchocki, Chris Callison-Burch
   arxiv: https://arxiv.org/abs/2302.13048
   img: schema.png
-  type: System Demonstration
+  type: Conference
   official_pdf: https://aclanthology.org/2023.acl-demo.1/
   website: https://www.youtube.com/watch?v=myru-fozVWI
-  venue: ACL Demonstrations
+  venue: ACL System Demonstrations
   location: Toronto, Canada  
   bib: |+
     @inproceedings{Zhang2023Schema,
