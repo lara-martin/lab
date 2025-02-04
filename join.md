@@ -3,22 +3,20 @@ layout: page
 active_tab: join
 ---
 # Joining the Lab
-<small>(updated 9/6/2024)</small>
+<small>(updated 2/4/2025)</small>
 
 ## What NOT to do:
 * Please do not call me Mam/Ma'am. It does not match my gender identity and makes me very uncomfortable. Stick to Doctor/Dr. Martin, Professor/Prof. Martin, or even just Lara.
 * I'm not interested in your TOEFL/GRE scores or your past grades. While they (along with the other components of your application) are looked at in your application to the school, they don't tell me much about how you will do with research. If you do want to tell me about your education, let me know if you've taken any classes that might be relevant to the research I do (e.g., an AI or NLP course) or if you've done any related projects.
         
-## What to do:
-### For current UMBC Masters/Undergrads:
-I've been getting a lot more interest than I can support, so I am currently not taking on any new students.
+
+## For current UMBC Masters/Undergrads:
+I am currently not taking on any new students.
 <!--I'd like to get to know students before working with them. To give everyone an equal chance, I will get to know students through the classes that I teach. If you'd like to work with me, please enroll in whatever class I'm teaching. If you can't get into the class and you have done previous work related to NLP, you can request to join my weekly lab meeting where we talk about current projects and sometimes go over papers together.-->
 	
         
-### For prospective PhD students:
-I am currently looking for a PhD student to work on Augmentative and Alternative Communication (AAC) research with me. You can read more about the preliminary work I've done in the space here: [https://arxiv.org/abs/2404.17730](https://arxiv.org/abs/2404.17730)
-<br>
-If you are interested in working with me, please apply to [UMBC's CS PhD](https://www.csee.umbc.edu/graduate/computer-science-m-s-ph-d/) and mention me in your statement of purpose.
+## For prospective PhD students:
+The application due date for Fall 2025 has already passed.
 	
 
 ## Funding
