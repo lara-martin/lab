@@ -76,7 +76,7 @@ active_tab: publications
 					{% assign l = list | strip%}
 					<!--{% assign aut = paper.authors | split: "," %}{% capture author_list %}{% for a in aut %}{% assign y = a |strip %}{% assign found = site.data.authors | find: "name", y %}{% if found %}, <a aria-label="{{found.name}}" href="{{found.link}}">{{found.name}}</a>{% else %}, {{y}}{% endif %}{% endfor %}{% endcapture %}-->
 													
-                <div class="position-relative mb-4 {{paper.tag}} portfolio-item ">                   
+                <div class="position-relative mb-4 {{paper.tag}} {{paper.type}} portfolio-item ">                   
 					{% if paper.img %}<div class="paperImage"><img src="assets/img/{{paper.img}}"></div>{% endif %}
 					{% if paper.type %}<div class="preprint"><mark>{{paper.type}}</mark></div>{% endif%}
 

@@ -403,3 +403,18 @@ a.navbar-item{
 	margin-bottom: -10px;
 	font-weight: bold;
 }
+
+
+.portfolio-container.Preprint.preprint.mark {
+	background: #0081A7;
+}
+
+.portfolio-container.Conference.preprint.mark {
+	background: #00AFB9;
+}
+
+.portfolio-container.Workshop.preprint.mark {
+	background: #FED9B7;
+	color: black;
+}
+
