@@ -36,8 +36,7 @@
       first: arya
       subtitle: PhD Student in Computer Science
       img: arya-honraopatil.jpeg
-      blurb: "Arya Honraopatil is currently pursuing her PhD in Computer Science at UMBC. She received her M.S. in computer science from UMBC and B.S. in computer engineering from University of Pune, India. Her research interests include human-computer interaction (HCI), with a focus on automated story generation, natural language processing, and speech technologies."
-      
+      blurb: "Arya Honraopatil is currently pursuing her PhD in Computer Science at UMBC. She received her M.S. in computer science from UMBC and B.S. in computer engineering from University of Pune, India. Her research interests include human-computer interaction (HCI), with a focus on automated story generation, natural language processing, and speech technologies." 
     - name: Marcus McAllister
       pronouns: he
       first: marcus
@@ -49,17 +48,7 @@
       coadvisor_link: https://userpages.cs.umbc.edu/cmat/
       
 - title: Affiliated PhD Students
-  people:
-    - name: Asha Kumar
-      first: asha
-      subtitle: PhD Student in Human-Centered Computing
-      emaillist: 8aabcdekmmruuu@.
-      emailorder: "[7,1,5,11,12,15,14,2,4,10,6,3,9,16,8,13]"
-      pronouns: she
-      advisor: Patti Ordóñez
-      advisor_link: https://informationsystems.umbc.edu/home/faculty-and-staff/faculty/patti-ordonez-ph-d/
-      scholar: https://scholar.google.com/citations?hl=en&user=bbKjxMMAAAAJ
- 
+  people: 
     - name: Sai Vallurupalli
       first: sai
       subtitle: PhD Student in Computer Science
@@ -114,7 +103,16 @@
          pronouns: he
          emaillist: 2abbcdehmnsuuw@.
          emailorder: "[6,2,5,10,11,14,13,1,9,4,0,8,15,3,7,12]"
-         scholar: https://scholar.google.com/citations?user=YHpyMWEAAAAJ      
+         scholar: https://scholar.google.com/citations?user=YHpyMWEAAAAJ
+       - name: Asha Kumar
+         first: asha
+         subtitle: PhD Student in Human-Centered Computing
+         emaillist: 8aabcdekmmruuu@.
+         emailorder: "[7,1,5,11,12,15,14,2,4,10,6,3,9,16,8,13]"
+         pronouns: she
+         advisor: Patti Ordóñez
+         advisor_link: https://informationsystems.umbc.edu/home/faculty-and-staff/faculty/patti-ordonez-ph-d/
+         scholar: https://scholar.google.com/citations?hl=en&user=bbKjxMMAAAAJ            
    - type: Masters Students
      people: 
       - name: Ashish Athimamula
