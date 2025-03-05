@@ -69,8 +69,10 @@
       pronouns: he
       img: shadab-choudhury.png
       website: http://www.shadabchy.com/
+      bluesky: https://bsky.app/profile/namer.bsky.social
       first: shadab
-      subtitle: MS Student in Computer Science      
+      subtitle: MS Student in Computer Science
+      thesis: "Connecting Language and Emotion in Large Language Models for Human-AI Collaboration" 
     - name: Naren Sivakumar
       pronouns: he
       first: naren
@@ -79,10 +81,16 @@
       subtitle: MS Student in Computer Science
       website: http://falcon10056.github.io
       img: naren-sivakumar.jpg
+      thesis: "Emulating Rational Decisions with Traditional and Contemporary AI"
 
-
-      
-
+- title: Masters Students
+  people:       
+    - name: AJ Boyd
+      pronouns: he
+      first: aj
+      subtitle: BS Student in Computer Science
+      emailorder: "[7, 6, 3, 1, 0, 14, 2, 4, 5, 11, 10, 13, 8, 9, 12]"
+      emaillist: u@ybauod3.cdmbe      
     
 - title: Lab Alumni
   types:
