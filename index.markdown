@@ -111,8 +111,11 @@ Information Technology and Engineering (ITE) 368
 	 {% endif %}
 	 {% if person.advisor %}<br>Advisor: <a href="{{person.advisor_link}}" aria-label="{{person.advisor}}'s website">{{person.advisor}}</a>{%endif%}
 	 {% if person.coadvisor %}<br>Co-Advised by: <a href="{{person.coadvisor_link}}" aria-label="{{person.coadvisor}}'s website">{{person.coadvisor}}</a>{%endif%}
-	 {% if person.blurb %}
+	 <!--{% if person.blurb %}
 	 <br><div class="bio" aria-label="about {{person.name}}">{{person.blurb}}</div>
+	 {% endif %}-->
+	 {% if person.area %}
+	 <br><div class="bio" aria-label="{{person.name}}'s research area">{{person.area}}</div>
 	 {% endif %}
 	</td>
 	

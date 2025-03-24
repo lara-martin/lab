@@ -2,12 +2,14 @@
 layout: page
 active_tab: join
 ---
-# Joining the Lab
+# Contacting Dr. Martin
 <small>(updated 3/24/2025)</small>
 
 I appreciate your interest in joining the LARA Lab! I get a lot of email, so if you send me an email, I probably won't respond. That said, if you really really want to contact me, here are some tips for increasing your chances of me responding.
 
 Please also keep in mind the <a href="https://ai.umbc.edu/ai-faculty/" aria-label="UMBC AI faculty">other amazing AI faculty at UMBC</a>.
+
+Email: [<div id="email{{person.first}}" style="display:inline;"><noscript><i>Please enable Javascript to view</i></noscript></div>]
 
 ## What NOT to do:
 * Please do not call me Mam/Ma'am. It does not match my gender identity and makes me very uncomfortable. Stick to Dr. Martin, Professor Martin, or even just Lara.
@@ -22,7 +24,7 @@ Please also keep in mind the <a href="https://ai.umbc.edu/ai-faculty/" aria-labe
 * If you do want to tell me about your education, let me know if you've taken any classes that might be relevant to the research I do (e.g., an AI or NLP course) or if you've done any related projects.
 * Email me if you have applied to UMBC this cycle and want me to know.
 * If you are a current student and would like to join the weekly LARA Lab meetings, let me know.
-        
+     
 
 ## For current/incoming UMBC Masters/Undergrads:
 I currently do not have funding for Masters or undergrad students. However, I am open to working on an independent project with you.
