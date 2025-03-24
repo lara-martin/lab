@@ -15,7 +15,7 @@
 
 -
   title: Structured Narrative Processing and Generation
-  people: Naren Sivakumar
+  people: Naren Sivakumar, Marcus McAllister
   img:
   about: Although I have worked on <a href="https://repository.gatech.edu/entities/publication/cdc9c234-f370-4d46-9ba5-a651dba37935" aria-label="Lara's thesis on Neurosymbolic automated story generation">neurosymbolic automated story generation</a> for a while, I believe neurosymbolic techniques are becoming even more important in today's era of large language modeling. Symbolic techniques are older AI techniques that often involve a significant amount of hand engineering but can result in predictable & interpretable output and behavior. These can range from rule-based systems to planners. Neurosymbolic storytelling enables systems to have the flexibility and broad range of output that LLMs can generate while maintaining important storytelling components such as plot, coherency, and consistency.
   pubs:
@@ -36,10 +36,11 @@
 
 -
   title: Community-Sensitive NLP Tools for Augmentative and Alternative Communication (AAC)
-  people: Shadab Choudhury, Asha Kumar
+  people: Shadab Choudhury
   about: <a href="https://www.asha.org/public/speech/disorders/aac/" aria-label="the American Speech-Language-Hearing Association's explanation of AAC">Augmentative and Alternative Communication (AAC)</a> tools have been largely ignored by the natural language processing community. However, even though it has been an exciting time in NLP, we must implement such tools with caution &ndash; taking into consideration what AAC users actually want. I am interested in improving AAC by bringing their technology to the era of ChatGPT without sacrificing users' autonomy, privacy, or personality.
   pubs:
     - title: "Bridging the Social & Technical Divide in Augmentative and Alternative Communication (AAC) Applications for Autistic Adults"
+    - title: "GPT's Devastated and LLaMA's Content: Emotion Representation Alignment in LLMs for Keyword-based Generation"
   
  
 -

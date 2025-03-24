@@ -14,6 +14,27 @@
 #  website:
 
 -
+  year: 2025
+  title: "GPT's Devastated 😭 and LLaMA's Content😌: Emotion Representation Alignment in LLMs for Keyword-based Generation"
+  authors: Shadab Choudhury, Asha Kumar, Lara J. Martin
+  arxiv: https://arxiv.org/abs/2503.11881
+  type: Preprint
+  img: GPTsDevastated.png
+  venue: arXiv preprint arXiv:2503.11881
+  tag: story
+  bib: |+
+    @report{Choudhury2025GPTsDevastated,
+    title={{GPT's Devastated and LLaMA's Content: Emotion Representation Alignment in LLMs for Keyword-based Generation}},
+    author={Choudhury, Shadab and Kumar, Asha and Martin, Lara J.},
+    year={2025},
+    eprint={2503.11881},
+    archivePrefix={arXiv},
+    url={https://arxiv.org/abs/2503.11881},
+    doi={10.48550/arXiv.2503.11881},
+    month={03}
+    }
+
+-
   year: 2024
   title: "WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models"
   authors: Runsheng "Anson" Huang, Lara J. Martin, Chris Callison-Burch

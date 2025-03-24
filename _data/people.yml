@@ -28,7 +28,8 @@
       first: patty
       emaillist: abcdemnnopsttuu@.
       emailorder: "[3,11,12,15,14,10,4,7,6,0,1,2,5,9,16,8,13]"
-      
+      start: "Joined Spring 2024"
+      area: "Fraud Detection" 
     - name: Arya Honraopatil
       emaillist: 1aabcdehmnooruu@.
       emailorder: "[7,0,5,11,12,15,14,1,10,3,2,6,4,9,16,8,13]" 
@@ -36,7 +37,9 @@
       first: arya
       subtitle: PhD Student in Computer Science
       img: arya-honraopatil.jpeg
-      blurb: "Arya Honraopatil is currently pursuing her PhD in Computer Science at UMBC. She received her M.S. in computer science from UMBC and B.S. in computer engineering from University of Pune, India. Her research interests include human-computer interaction (HCI), with a focus on automated story generation, natural language processing, and speech technologies." 
+      blurb: "Arya Honraopatil is currently pursuing her PhD in Computer Science at UMBC. She received her M.S. in computer science from UMBC and B.S. in computer engineering from University of Pune, India. Her research interests include human-computer interaction (HCI), with a focus on automated story generation, natural language processing, and speech technologies."
+      area: "D&D AI"
+      start: "Joined Summer 2024"
     - name: Marcus McAllister
       pronouns: he
       first: marcus
@@ -46,6 +49,20 @@
       img: Marcus-McAllister.jpg 
       coadvisor: Cynthia Matuszek
       coadvisor_link: https://userpages.cs.umbc.edu/cmat/
+      start: "Joined Fall 2024"
+      area: "Storytelling for Robotics"
+    - name: Ray Groshan
+      pronouns: he/they
+      first: ray
+      subtitle: PhD Student in Computer Science
+      start: "Starting Fall 2025"
+      area: "AAC"
+    - name: Tianyi Zhang
+      pronouns: she
+      first: tianyi
+      subtitle: PhD Student in Computer Science
+      start: "Starting Fall 2025"
+      area: "Neurosymbolic NLP"   
       
 - title: Affiliated PhD Students
   people: 
