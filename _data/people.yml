@@ -29,7 +29,13 @@
       emaillist: abcdemnnopsttuu@.
       emailorder: "[3,11,12,15,14,10,4,7,6,0,1,2,5,9,16,8,13]"
       start: "Joined Spring 2024"
-      area: "Fraud Detection" 
+      area: "Fraud Detection"
+    - name: Ray Groshan
+      pronouns: he/they
+      first: ray
+      subtitle: PhD Student in Computer Science
+      start: "Starting Fall 2025"
+      area: "AAC/NLP for Assistive Technology"      
     - name: Arya Honraopatil
       emaillist: 1aabcdehmnooruu@.
       emailorder: "[7,0,5,11,12,15,14,1,10,3,2,6,4,9,16,8,13]" 
@@ -51,12 +57,6 @@
       coadvisor_link: https://userpages.cs.umbc.edu/cmat/
       start: "Joined Fall 2024"
       area: "Storytelling for Robotics"
-    - name: Ray Groshan
-      pronouns: he/they
-      first: ray
-      subtitle: PhD Student in Computer Science
-      start: "Starting Fall 2025"
-      area: "AAC/NLP for Assistive Technology"
     - name: Tianyi Zhang
       pronouns: she
       first: tianyi
