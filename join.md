@@ -9,7 +9,7 @@ I appreciate your interest in joining the LARA Lab! I get a lot of email, so if 
 
 Please also keep in mind the <a href="https://ai.umbc.edu/ai-faculty/" aria-label="UMBC AI faculty">other amazing AI faculty at UMBC</a>.
 
-Email: [<div id="email{{person.first}}" style="display:inline;"><noscript><i>Please enable Javascript to view</i></noscript></div>]
+Email: [<div id="emaillara" style="display:inline;"><noscript><i>Please enable Javascript to view</i></noscript></div>]
 
 ## What NOT to do:
 * Please do not call me Mam/Ma'am. It does not match my gender identity and makes me very uncomfortable. Stick to Dr. Martin, Professor Martin, or even just Lara.
