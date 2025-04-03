@@ -32,6 +32,7 @@
       area: "Fraud Detection"
     - name: Ray Groshan
       pronouns: he/they
+      img: ray-groshan.jpg
       first: ray
       subtitle: PhD Student in Computer Science
       start: "Starting Fall 2025"
@@ -62,6 +63,8 @@
     - name: Tianyi Zhang
       pronouns: she
       first: tianyi
+      img: tianyi-zhang.jpeg
+      website: https://tianyi0608.github.io/tianyizhang/
       subtitle: PhD Student in Computer Science
       start: "Starting Fall 2025"
       area: "Neurosymbolic NLP"   
