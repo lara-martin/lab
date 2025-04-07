@@ -21,7 +21,7 @@
   type: Preprint
   img: GPTsDevastated.png
   venue: arXiv preprint arXiv:2503.11881
-  tag: story
+  tag: aac
   bib: |+
     @report{Choudhury2025GPTsDevastated,
     title={{GPT's Devastated and LLaMA's Content: Emotion Representation Alignment in LLMs for Keyword-based Generation}},
