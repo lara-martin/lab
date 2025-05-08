@@ -45,7 +45,4 @@ active_tab: theses
 </div>
 
 
-
-{% endif %}
-
 {% endfor %}
