@@ -40,9 +40,9 @@ active_tab: theses
 </table>
 </div>
 </div>
-{% endfor %}
 
-</div>
+
+
 
 
 {% endfor %}
