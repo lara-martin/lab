@@ -38,7 +38,9 @@
       start: "Starting Fall 2025"
       area: "AAC/NLP for Assistive Technology"
       website: https://groshanr.github.io/
-      bluesky: https://bsky.app/profile/groshanr.bsky.social  
+      bluesky: https://bsky.app/profile/groshanr.bsky.social
+      emailorder: "[9, 0, 5, 13, 7, 3, 4, 10, 11, 12, 1, 6, 2, 8]"
+      emaillist: cr@umg2.edauyb
     - name: Arya Honraopatil
       emaillist: 1aabcdehmnooruu@.
       emailorder: "[7,0,5,11,12,15,14,1,10,3,2,6,4,9,16,8,13]" 
@@ -67,7 +69,9 @@
       website: https://tianyi0608.github.io/tianyizhang/
       subtitle: PhD Student in Computer Science
       start: "Starting Fall 2025"
-      area: "Neurosymbolic NLP"   
+      area: "Neurosymbolic NLP"
+      emailorder: "[5, 0, 11, 7, 15, 2, 13, 10, 1, 14, 8, 6, 9, 3, 16, 12, 4]"
+      emaillist: itb1da.mie@zunucy
       
 - title: Affiliated PhD Students
   people: 

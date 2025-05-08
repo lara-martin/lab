@@ -1,0 +1,42 @@
+#-
+#  date: 
+#  author: 
+#  title:
+#  official_pdf:
+#  type:
+#  area: 
+#  abstract:
+#  place:
+
+  
+
+-
+  type: PhD
+  people:
+    -
+      date: 2020-12-07
+      author: Lara J. Martin
+      title: Neurosymbolic Automated Story Generation
+      official_pdf: https://smartech.gatech.edu/handle/1853/64643
+      area: Human-Centered Computing
+      abstract: "Although we are currently riding a technological wave of personal assistants, many of these agents still struggle to communicate appropriately. Humans are natural storytellers, so it would be fitting if artificial intelligence (AI) could tell stories as well. Automated story generation is an area of AI research that aims to create agents that tell good stories. With goodness being subjective and hard-to-define, I focus on the perceived coherence of stories in this thesis. Previous story generation systems use planning and symbolic representations to create new stories, but these systems require a vast amount of knowledge engineering. The stories created by these systems are coherent, but only a finite set of stories can be generated. In contrast, very large neural language models have recently made the headlines in the natural language processing community. Though impressive on the surface, even the most sophisticated of these models begins to lose coherence over time. My research looks at both neural and symbolic techniques of automated story generation. In this dissertation, I created automated story generation systems that improved coherence by leveraging various symbolic approaches for neural systems. I did this through a collection of techniques; by separating out semantic event generation from syntactic sentence generation, manipulating neural event generation to become goal-driven, improving syntactic sentence generation to be more interesting and coherent, and creating a rule-based infrastructure to aid neural networks in causal reasoning."
+      place: Georgia Institute of Technology
+
+-
+  type: MS
+  people:
+    -
+      date: 2025-04-21
+      author: Naren Sivakumar
+      title: Emulating Rational Decisions with Traditional and Contemporary AI
+      area: Computer Science
+      abstract: 
+      place: "University of Maryland, Baltimore County"
+
+    -
+      date: 2025-04-18
+      author: Shadab Choudhury
+      title: Connecting Language and Emotion in Large Language Models for Human-AI Collaboration
+      area: Computer Science
+      abstract: 
+      place: "University of Maryland, Baltimore County"
