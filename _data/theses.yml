@@ -30,7 +30,7 @@
       author: Naren Sivakumar
       title: Emulating Rational Decisions with Traditional and Contemporary AI
       area: Computer Science
-      abstract: 
+      abstract: "With the introduction of Large Language Models (LLMs) into society, they have been used for increasingly more complex and important tasks in various governmental and corporate settings. This has further been exacerbated with the introduction of "thinking" models, which are designed and geared towards thinking and logical reasoning. With this in mind, this thesis aims to be a study of conflict resolution on a national scale, with different factors that affect decision-making involved, such as the level of cooperation, existing relationships, and types of governance. Each country is first grouped according to the type of governance. This allows us to extract government-specific actions that have been used by governments in the past to achieve their goals. Each country is then given a set of actions, relationships, and resources to use throughout the conflict resolution. The authors aim to reach the Nash Equilibrium as the resolution point, where no party can change the outcome of the conflict by modifying only their own decisions. This serves as an adequate completion point because hypothetically the only step that can be taken after reaching the Nash Equilibrium is to declare war, something that is to be avoided as much as possible. The thesis finally conducts versus matches between the MCTS algorithm and LLMs, with each party being either cooperative or uncooperative. "
       place: "University of Maryland, Baltimore County"
 
     -
@@ -38,5 +38,5 @@
       author: Shadab Choudhury
       title: Connecting Language and Emotion in Large Language Models for Human-AI Collaboration
       area: Computer Science
-      abstract: 
+      abstract: " Large Language Models demonstrate linguistic abilities on par with humans, generating short texts, stories, instructions, and even code that's often indistinguishable from what is created by humans. This allows humans to use large language models (LLMs) collaboratively — as communication aides or writing assistants. However, humans cannot always assume an LLM will behave the same way another person would. This is particularly evident in subjective scenarios such as where emotion is involved. In this work, we explore to what depth do LLMs perceive and understand human emotions, and look at ways of describing an emotion to an LLM for collaborative work. First, we study the problem of classifying emotions and show that LLMs perform well on their own, and can also improve smaller models at the same task. Secondly, we focus on generating emotions, using the problem space of keyword-constrained generation and a human participant-study to see where human expectations and LLM outputs diverge and how we can minimize any such misalignment. Here, we find that using English words and lexical expressions valence-arousal-dominance (VAD) scales lead to good alignment and generation quality, while Emojis or numeric representations of VAD fare worse."
       place: "University of Maryland, Baltimore County"

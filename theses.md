@@ -18,8 +18,8 @@ active_tab: theses
   {% for person in type.people %}
 	<td>
 	 <h4 style="display: inline;">{{person.author}}, {{type.type}} {{person.area}} at {{person.place}}</h4><br>
-	 {% if person.official_pdf %}<h4 style="display: inline;"><a href={{person.official_pdf}} aria-label="{{person.author}}'s dissertation">{{person.title}}</a></h4>{%else%}<h4 style="display: inline;">{{person.title}}</h4>{%endif%}<br>
-	 {%if person.date %}<h5> Defended: {{person.date | %B %e, %Y }}</h5>{% endif %}<br>
+	 {% if person.official_pdf %}<h4 style="display: inline;"><a href="{{person.official_pdf}}" aria-label="{{person.author}}'s dissertation">{{person.title}}</a></h4>{%else%}<h4 style="display: inline;">{{person.title}}</h4>{%endif%}<br>
+	 {%if person.date %}<h5> Defended: {{person.date | '%B %e, %Y' }}</h5>{% endif %}<br>
 	 {%if person.abstract %} <b>Abstract:</b> {{person.abstract }}{% endif %}
 	 
 	 
