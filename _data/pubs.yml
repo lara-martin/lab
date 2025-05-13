@@ -135,6 +135,7 @@
   img: schema.png
   type: Conference
   official_pdf: https://aclanthology.org/2023.acl-demo.1/
+  poster: poster/schema-induction-poster.pdf
   website: https://www.youtube.com/watch?v=myru-fozVWI
   venue: ACL System Demonstrations
   location: Toronto, Canada  
