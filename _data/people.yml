@@ -62,7 +62,7 @@
       coadvisor_link: https://userpages.cs.umbc.edu/cmat/
       start: "Joined Fall 2024"
       area: "Storytelling for Robotics"
-    - name: Tianyi Zhang
+    - name: Tianyi Zhang (张天怡)
       pronouns: she
       first: tianyi
       img: tianyi-zhang.jpeg
@@ -72,6 +72,7 @@
       area: "Neurosymbolic NLP"
       emailorder: "[5, 0, 11, 7, 15, 2, 13, 10, 1, 14, 8, 6, 9, 3, 16, 12, 4]"
       emaillist: itb1da.mie@zunucy
+      scholar: https://scholar.google.com/citations?user=HN9IiuMAAAAJ
       
 - title: Affiliated PhD Students
   people: 
