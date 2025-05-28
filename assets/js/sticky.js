@@ -1,3 +1,5 @@
+/* stick the navbar at the top after scrolling a bit down */
+
 window.onscroll = function() {myFunction()};
 
 var navbar = document.getElementById("navbar");

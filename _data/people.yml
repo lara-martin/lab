@@ -88,45 +88,25 @@
     
 
 
-- title: Masters Students
-  people: 
-    - name: Shadab Choudhury
-      emaillist: 1aabbccddehmsuu@.
-      emailorder: "[7,2,4,5,11,6,12,3,15,14,1,10,0,9,16,8,13]"      
-      pronouns: he
-      img: shadab-choudhury.png
-      website: http://www.shadabchy.com/
-      bluesky: https://bsky.app/profile/namer.bsky.social
-      first: shadab
-      subtitle: MS Student in Computer Science
-    - name: Naren Sivakumar
-      pronouns: he
-      first: naren
-      emaillist: 1abcdeemnnrsuu@.
-      emailorder: "[6,1,10,11,14,3,13,9,0,4,2,5,8,15,7,12]" 
-      subtitle: MS Student in Computer Science
-      website: http://falcon10056.github.io
-      img: naren-sivakumar.jpg
+#- title: Masters Students
+#  people: 
+
 
 - title: Undergrad Students
-  people:       
-    - name: AJ Boyd
-      pronouns: he
-      first: aj
+  people:
+    - name: Paul Abili
+      first: paul
       subtitle: BS Student in Computer Science
-      emailorder: "[7, 6, 3, 1, 0, 14, 2, 4, 5, 11, 10, 13, 8, 9, 12]"
-      emaillist: u@ybauod3.cdmbe      
-    
+      emailorder: "[7, 15, 3, 8, 10, 2, 12, 0, 9, 14, 4, 1, 6, 5, 13, 11]"
+      emaillist: @uiubb.pmdla1iec   
+        
+
+
+###############################
+
+
 - title: Lab Alumni
   types:
-   - type: Undergraduate Students
-     people:
-       - name: Tori Saylor
-         emaillist: 1abcdelmorsuuvy@.
-         emailorder: "[7,2,11,12,15,14,4,10,5,6,1,9,16,0,3,8,13]"      
-         pronouns: she
-         first: tori
-         subtitle: BS Student in Computer Science
    - type: Affiliated PhD Students
      people:  
        - name: Shawn Bray
@@ -145,7 +125,9 @@
          pronouns: she
          advisor: Patti Ordóñez
          advisor_link: https://informationsystems.umbc.edu/home/faculty-and-staff/faculty/patti-ordonez-ph-d/
-         scholar: https://scholar.google.com/citations?hl=en&user=bbKjxMMAAAAJ            
+         scholar: https://scholar.google.com/citations?hl=en&user=bbKjxMMAAAAJ     
+         
+                
    - type: Masters Students
      people: 
       - name: Ashish Athimamula
@@ -153,7 +135,16 @@
         emailorder: "[3,2,4,5,6,1,10,11,14,13,0,9,8,15,7,12]"      
         pronouns: he
         first: ashish
-        subtitle: MS Student in Computer Science      
+        subtitle: MS Student in Computer Science   
+      - name: Shadab Choudhury
+        emaillist: 1aabbccddehmsuu@.
+        emailorder: "[7,2,4,5,11,6,12,3,15,14,1,10,0,9,16,8,13]"      
+        pronouns: he
+        img: shadab-choudhury.png
+        website: http://www.shadabchy.com/
+        bluesky: https://bsky.app/profile/namer.bsky.social
+        first: shadab
+        subtitle: MS Student in Computer Science
       - name: Dedeepya Palakurthi
         img: dedeepya-palakurthi.jpg
         pronouns: she
@@ -167,12 +158,34 @@
         img: saksham-sharma.JPG
         subtitle: MS Student in Computer Science
         emaillist: 8aabcdehmmrssuu@.
-        emailorder: "[7,6,3,11,12,15,14,2,5,10,4,0,1,9,16,8,13]"       
+        emailorder: "[7,6,3,11,12,15,14,2,5,10,4,0,1,9,16,8,13]"   
+      - name: Naren Sivakumar
+        pronouns: he
+        first: naren
+        emaillist: 1abcdeemnnrsuu@.
+        emailorder: "[6,1,10,11,14,3,13,9,0,4,2,5,8,15,7,12]" 
+        subtitle: MS Student in Computer Science
+        website: http://falcon10056.github.io
+        img: naren-sivakumar.jpg      
       - name: June Young
         pronouns: she/they
         first: june
         emaillist: 04bcdeehjmopsuu@.
         emailorder: "[7,6,11,12,15,3,14,5,0,10,1,4,2,9,16,8,13]" 
         subtitle: MS Student in Computer Science        
-      
+
+   - type: Undergraduate Students
+     people:
+       - name: Tori Saylor
+         emaillist: 1abcdelmorsuuvy@.
+         emailorder: "[7,2,11,12,15,14,4,10,5,6,1,9,16,0,3,8,13]"      
+         pronouns: she
+         first: tori
+         subtitle: BS Student in Computer Science
+       - name: AJ Boyd
+         pronouns: he
+         first: aj
+         subtitle: BS Student in Computer Science
+         emailorder: "[7, 6, 3, 1, 0, 14, 2, 4, 5, 11, 10, 13, 8, 9, 12]"
+         emaillist: u@ybauod3.cdmbe       
     
