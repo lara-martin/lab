@@ -99,6 +99,8 @@
       subtitle: BS Student in Computer Science
       emailorder: "[13, 2, 5, 9, 15, 10, 3, 8, 1, 4, 7, 6, 0, 14, 11, 12]"
       emaillist: ebimubiual@1pdc. 
+      pronouns: he
+      img: Paul-Abili.jpg
         
 
 
@@ -176,16 +178,17 @@
 
    - type: Undergraduate Students
      people:
+       - name: AJ Boyd
+         pronouns: he
+         first: aj
+         subtitle: BS Student in Computer Science
+         emailorder: "[7, 6, 3, 1, 0, 14, 2, 4, 5, 11, 10, 13, 8, 9, 12]"
+         emaillist: u@ybauod3.cdmbe 
        - name: Tori Saylor
          emaillist: 1abcdelmorsuuvy@.
          emailorder: "[7,2,11,12,15,14,4,10,5,6,1,9,16,0,3,8,13]"      
          pronouns: she
          first: tori
          subtitle: BS Student in Computer Science
-       - name: AJ Boyd
-         pronouns: he
-         first: aj
-         subtitle: BS Student in Computer Science
-         emailorder: "[7, 6, 3, 1, 0, 14, 2, 4, 5, 11, 10, 13, 8, 9, 12]"
-         emaillist: u@ybauod3.cdmbe       
+      
     
