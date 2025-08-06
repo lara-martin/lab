@@ -15,7 +15,7 @@
 
 -
   year: 2025
-  title: "GPT's Devastated😭 and LLaMA's Content😌: Emotion Representation Alignment in LLMs for Keyword-based Generation"
+  title: "GPT is Devastated😭 and LLaMA is Content😌: Emotion Representation Alignment in LLMs for Keyword-based Generation"
   authors: Shadab Choudhury, Asha Kumar, Lara J. Martin
   arxiv: https://arxiv.org/abs/2503.11881
   type: Preprint
@@ -24,7 +24,7 @@
   tag: aac
   bib: |+
     @report{Choudhury2025GPTsDevastated,
-    title={{GPT's Devastated and LLaMA's Content: Emotion Representation Alignment in LLMs for Keyword-based Generation}},
+    title={{GPT is Devastated and LLaMA is Content: Emotion Representation Alignment in LLMs for Keyword-based Generation}},
     author={Choudhury, Shadab and Kumar, Asha and Martin, Lara J.},
     year={2025},
     eprint={2503.11881},
@@ -77,7 +77,7 @@
 
 -
   year: 2024
-  title: "Bridging the Social & Technical Divide in Augmentative and Alternative Communication (AAC) Applications for Autistic Adults"
+  title: "Aging Up AAC: An Introspection on Augmentative and Alternative Communication Applications for Autistic Adults "
   authors: Lara J. Martin, Malathy Nagalakshmi
   arxiv: https://arxiv.org/abs/2404.17730
   type: Preprint
@@ -85,8 +85,8 @@
   venue: arXiv preprint arXiv:2404.17730
   tag: aac
   bib: |+
-    @report{Martin2024Bridging,
-    title={{Bridging the Social & Technical Divide in Augmentative and Alternative Communication (AAC) Applications for Autistic Adults}},
+    @report{Martin2024AgingUpAAC,
+    title={{Aging Up AAC: An Introspection on Augmentative and Alternative Communication Applications for Autistic Adults}},
     author={Martin, Lara J. and Nagalakshmi, Malathy},
     year={2024},
     eprint={2404.17730},
