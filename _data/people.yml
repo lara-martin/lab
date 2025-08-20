@@ -88,8 +88,16 @@
     
 
 
-#- title: Masters Students
-#  people: 
+- title: Masters Students
+  people: 
+    - name: Lahari Vuppalapati
+      first: lahari
+      subtitle: MS Student in Computer Science
+      pronouns: she
+      img: Lahari-Vuppalapati.jpg
+      emailorder: "[7, 1, 10, 0, 4, 14, 2, 8, 12, 16, 5, 11, 6, 3, 15, 13, 9]"
+      emaillist: 2amlreh@cuibvad.u
+    
 
 
 - title: Undergrad Students
