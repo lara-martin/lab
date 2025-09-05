@@ -29,7 +29,7 @@
       emaillist: abcdemnnopsttuu@.
       emailorder: "[3,11,12,15,14,10,4,7,6,0,1,2,5,9,16,8,13]"
       start: "Joined Spring 2024"
-      area: "Fraud Detection"
+      area: "RAG for Fraud Detection"
     - name: Ray Groshan
       pronouns: he/they
       img: ray-groshan.jpg
@@ -41,6 +41,7 @@
       bluesky: https://bsky.app/profile/groshanr.bsky.social
       emailorder: "[9, 0, 5, 13, 7, 3, 4, 10, 11, 12, 1, 6, 2, 8]"
       emaillist: cr@umg2.edauyb
+      scholar: https://scholar.google.com/citations?user=foY57vgAAAAJ
     - name: Arya Honraopatil
       emaillist: 1aabcdehmnooruu@.
       emailorder: "[7,0,5,11,12,15,14,1,10,3,2,6,4,9,16,8,13]" 
@@ -62,17 +63,17 @@
       coadvisor_link: https://userpages.cs.umbc.edu/cmat/
       start: "Joined Fall 2024"
       area: "Storytelling for Robotics"
-    - name: Tianyi Zhang (张天怡)
-      pronouns: she
-      first: tianyi
-      img: tianyi-zhang.jpeg
-      website: https://tianyi0608.github.io/tianyizhang/
-      subtitle: PhD Student in Computer Science
-      start: "Joined Fall 2025"
-      area: "Neurosymbolic NLP"
-      emailorder: "[5, 0, 11, 7, 15, 2, 13, 10, 1, 14, 8, 6, 9, 3, 16, 12, 4]"
-      emaillist: itb1da.mie@zunucy
-      scholar: https://scholar.google.com/citations?user=HN9IiuMAAAAJ
+    #- name: Tianyi Zhang (张天怡)
+    #  pronouns: she
+    #  first: tianyi
+    #  img: tianyi-zhang.jpeg
+    #  website: https://tianyi0608.github.io/tianyizhang/
+    #  subtitle: PhD Student in Computer Science
+    #  start: "Joined Fall 2025"
+    #  area: "Neurosymbolic NLP"
+    #  emailorder: "[5, 0, 11, 7, 15, 2, 13, 10, 1, 14, 8, 6, 9, 3, 16, 12, 4]"
+    #  emaillist: itb1da.mie@zunucy
+    #  scholar: https://scholar.google.com/citations?user=HN9IiuMAAAAJ
       
 - title: Affiliated PhD Students
   people: 
@@ -90,6 +91,14 @@
 
 - title: Masters Students
   people: 
+    - name: Venkata Sai Harsha Kothapalli
+      first: harsha
+      subtitle: MS Student in Computer Science
+      pronouns: he
+      website: https://www.linkedin.com/in/harsha-kothapalli/
+      img: harsha-kothapalli.jpeg
+      emailorder: "[1, 8, 7, 11, 10, 12, 4, 0, 5, 6, 2, 3, 9]"
+      emaillist: 1cbdeu@vum45.
     - name: Lahari Vuppalapati
       first: lahari
       subtitle: MS Student in Computer Science
@@ -97,6 +106,7 @@
       img: Lahari-Vuppalapati.jpg
       emailorder: "[7, 1, 10, 0, 4, 14, 2, 8, 12, 16, 5, 11, 6, 3, 15, 13, 9]"
       emaillist: 2amlreh@cuibvad.u
+
     
 
 
