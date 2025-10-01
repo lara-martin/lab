@@ -33,26 +33,40 @@
     doi={10.48550/arXiv.2503.11881},
     month={03}
     }
-
 -
-  year: 2024
+  year: 2025
+  title: "Does Reasoning Help LLM Agents Play Dungeons and Dragons? A Prompt Engineering Experiment"
+  authors: Patricia J. Delafuente, Arya Honraopatil, Lara J. Martin
+  type: Workshop
+  venue: "5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025"
+  tag: dnd
+  bib: |+
+    @inproceedings{Delafuente2025ReasoningDnD,
+    title={{Does Reasoning Help LLM Agents Play Dungeons and Dragons? A Prompt Engineering Experiment}},
+    author={Delafuente, Patricia J. and Honraopatil, Arya and Martin, Lara J.},
+    year={2025},
+    month={11},
+    booktitle={5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025}
+    }
+    
+-
+  year: 2025
   title: "WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models"
   authors: Runsheng "Anson" Huang, Lara J. Martin, Chris Callison-Burch
   arxiv: https://arxiv.org/abs/2412.10582
-  type: Preprint
+  type: Workshop
   img: what-if-UI-filled.png
-  venue: arXiv preprint arXiv:2412.10582
+  venue: "5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025"
   tag: story
   bib: |+
-    @report{Huang2024WHAT-IF,
+    @inproceedings{Huang2025WHAT-IF,
     title={{WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models}},
     author={Huang, Runsheng "Anson" and Martin, Lara J. and Callison-Burch, Chris},
-    year={2024},
-    eprint={2412.10582},
-    archivePrefix={arXiv},
+    year={2025},
     url={https://arxiv.org/abs/2412.10582},
     doi={10.48550/arXiv.2412.10582},
-    month={12}
+    month={11},
+    booktitle={5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025}
     }
 
 -
@@ -71,6 +85,7 @@
     author={ Chambers, Rachel and Tack, Naomi and  Pearson, Eliot and Martin, Lara J. and Ferraro, Francis},
     year={2024},
     booktitle={4th Wordplay: When Language Meets Games @ ACL 2024},
+    url={https://wordplay-workshop.github.io/wordplay2024/pdfs/21.pdf},
     month={08},
     address={Bangkok, Thailand}
     } 
