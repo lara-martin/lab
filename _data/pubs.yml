@@ -36,19 +36,22 @@
 -
   year: 2025
   title: "Does Reasoning Help LLM Agents Play Dungeons and Dragons? A Prompt Engineering Experiment"
-  authors: Patricia J. Delafuente, Arya Honraopatil, Lara J. Martin
+  authors: Patricia Delafuente, Arya Honraopatil, Lara J. Martin
   type: Workshop
   location: Suzhou, China
   venue: "5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025"
+  arxiv: https://arxiv.org/abs/2510.18112
   tag: dnd
+  img: dnd-reasoning.png
   bib: |+
     @inproceedings{Delafuente2025ReasoningDnD,
     title={{Does Reasoning Help LLM Agents Play Dungeons and Dragons? A Prompt Engineering Experiment}},
-    author={Delafuente, Patricia J. and Honraopatil, Arya and Martin, Lara J.},
+    author={Delafuente, Patricia and Honraopatil, Arya and Martin, Lara J.},
     year={2025},
     month={11},
     booktitle={5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025},
-    address={Suzhou, China}
+    address={Suzhou, China},
+    url={https://arxiv.org/abs/2510.18112}
     }
     
 -
@@ -58,7 +61,7 @@
   arxiv: https://arxiv.org/abs/2412.10582
   type: Workshop
   location: Suzhou, China
-  img: what-if-UI-filled.png
+  img: what-if-tony.png
   venue: "5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025"
   tag: story
   bib: |+

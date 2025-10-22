@@ -30,6 +30,7 @@
       emailorder: "[3,11,12,15,14,10,4,7,6,0,1,2,5,9,16,8,13]"
       start: "Joined Spring 2024"
       area: "RAG for Fraud Detection"
+      orcid: https://orcid.org/0009-0005-2291-8837
     - name: Ray Groshan
       pronouns: he/they
       img: ray-groshan.jpg
