@@ -15,23 +15,25 @@
 
 -
   year: 2025
-  title: "GPT is Devastated😭 and LLaMA is Content😌: Emotion Representation Alignment in LLMs for Keyword-based Generation"
+  title: "Evaluating Human-LLM Representation Alignment: A Case Study on Affective Sentence Generation for Augmentative and Alternative Communication"
   authors: Shadab Choudhury, Asha Kumar, Lara J. Martin
   arxiv: https://arxiv.org/abs/2503.11881
-  type: Preprint
-  img: GPTsDevastated.png
-  venue: arXiv preprint arXiv:2503.11881
+  venue: Findings of the Association of Computational Linguistics: IJCNLP-AACL 2025
+  type: Conference
+  img: RepAlign.png
   tag: aac
   bib: |+
-    @report{Choudhury2025GPTsDevastated,
-    title={{GPT is Devastated and LLaMA is Content: Emotion Representation Alignment in LLMs for Keyword-based Generation}},
+    @inproceedings{Choudhury2025RepresentationAlignment,
+    title={{Evaluating Human-LLM Representation Alignment: A Case Study on Affective Sentence Generation for Augmentative and Alternative Communication}},
     author={Choudhury, Shadab and Kumar, Asha and Martin, Lara J.},
     year={2025},
+    booktitle={Findings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL)},
     eprint={2503.11881},
     archivePrefix={arXiv},
     url={https://arxiv.org/abs/2503.11881},
     doi={10.48550/arXiv.2503.11881},
-    month={03}
+    month={12},
+    address={Mumbai, India}
     }
 -
   year: 2025
@@ -41,6 +43,7 @@
   location: Suzhou, China
   venue: "5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025"
   arxiv: https://arxiv.org/abs/2510.18112
+  url: https://wordplay-workshop.github.io/pdfs/29.pdf
   tag: dnd
   img: dnd-reasoning.png
   bib: |+
@@ -51,7 +54,8 @@
     month={11},
     booktitle={5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025},
     address={Suzhou, China},
-    url={https://arxiv.org/abs/2510.18112}
+    doi={10.48550/arXiv.2510.18112},
+    url={https://wordplay-workshop.github.io/pdfs/29.pdf}
     }
     
 -
@@ -61,6 +65,7 @@
   arxiv: https://arxiv.org/abs/2412.10582
   type: Workshop
   location: Suzhou, China
+  url: https://wordplay-workshop.github.io/pdfs/4.pdf
   img: what-if-tony.png
   venue: "5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025"
   tag: story
@@ -69,7 +74,7 @@
     title={{WHAT-IF: Exploring Branching Narratives by Meta-Prompting Large Language Models}},
     author={Huang, Runsheng "Anson" and Martin, Lara J. and Callison-Burch, Chris},
     year={2025},
-    url={https://arxiv.org/abs/2412.10582},
+    url={https://wordplay-workshop.github.io/pdfs/4.pdf},
     doi={10.48550/arXiv.2412.10582},
     month={11},
     booktitle={5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025},
