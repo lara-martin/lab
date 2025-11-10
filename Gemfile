@@ -36,4 +36,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "jekyll-remote-theme"
 gem "bulma-clean-theme",  '1.0.0'
 gem 'liquid'
-gem "sass-embeded", "1.93.2"
+gem "sass-embedded", "1.93.2"
