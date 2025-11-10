@@ -19,6 +19,7 @@
   authors: Shadab Choudhury, Asha Kumar, Lara J. Martin
   arxiv: https://arxiv.org/abs/2503.11881
   venue: "Findings of the Association of Computational Linguistics: IJCNLP-AACL 2025"
+  location: Mumbai, India
   type: Conference
   img: RepAlign.png
   tag: aac
@@ -27,7 +28,7 @@
     title={{Evaluating Human-LLM Representation Alignment: A Case Study on Affective Sentence Generation for Augmentative and Alternative Communication}},
     author={Choudhury, Shadab and Kumar, Asha and Martin, Lara J.},
     year={2025},
-    booktitle={Findings of the International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL)},
+    booktitle={Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025},
     eprint={2503.11881},
     archivePrefix={arXiv},
     url={https://arxiv.org/abs/2503.11881},
