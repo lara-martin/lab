@@ -1,6 +1,6 @@
 ---
 ---
-$primary: #B24D76;
+$primary: #007176;
 // Import Main CSS file from theme
 @import "main";
 
@@ -21,7 +21,7 @@ img {
 }
 
 .bio {
-  background: #ABE3CD;
+  background: #fdb515;
   border-radius: 25px;
   padding: 10px;
   color: black;
@@ -431,4 +431,8 @@ a.navbar-item{
 
 li {
 	list-style: none;
+}
+
+.person-list {
+	width: 380px;
 }

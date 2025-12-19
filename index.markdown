@@ -82,7 +82,7 @@ Information Technology and Engineering (ITE) 368
   <tbody>
   <ul>
   {% for person in group.people %}
-	<li>
+	<li class="person-list">
 	<div class="image-cropper">
 	 {% if person.img %}
 		 {% if person.img contains "://" %}
