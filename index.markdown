@@ -3,8 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Language, Aid, and Representation AI (LARA) Lab
 ---
 
+<div id="screen-reader-skip"></div>
 
 # About the LARA Lab
 In this lab, we look at using and improving language tools to make better, human-centered artificial intelligence (AI) by looking at how people communicate and creating computer-supported human communication tools. To find out more about what we're currently working on, check out the <a href="projects.html" aria-label="projects page">Projects</a> page.

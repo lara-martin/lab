@@ -1,7 +1,10 @@
 ---
 layout: page
 active_tab: projects
+title: Active Projects
 ---
+<div id="screen-reader-skip"></div>
+
 # Ongoing Projects
 
 <!-- Pubs Start -->

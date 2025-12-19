@@ -178,7 +178,7 @@ body .uwy.userway_p1 .uai {
   width:250px;
 }
 
-#unscramble {
+.unscramble {
   cursor: pointer;
 }
 
@@ -420,3 +420,11 @@ a.navbar-item{
 	color: black;
 }
 
+.screen-reader-only, h1 {
+  position: absolute;
+  left: -5000px;
+
+  &:focus {
+    left: 0;
+  }
+}

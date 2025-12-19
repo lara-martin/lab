@@ -44,7 +44,7 @@
   location: Suzhou, China
   venue: "5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025"
   arxiv: https://arxiv.org/abs/2510.18112
-  url: https://wordplay-workshop.github.io/pdfs/29.pdf
+  official_pdf: https://wordplay-workshop.github.io/pdfs/29.pdf
   tag: dnd
   img: dnd-reasoning.png
   bib: |+
@@ -66,7 +66,7 @@
   arxiv: https://arxiv.org/abs/2412.10582
   type: Workshop
   location: Suzhou, China
-  url: https://wordplay-workshop.github.io/pdfs/4.pdf
+  official_pdf: https://wordplay-workshop.github.io/pdfs/4.pdf
   img: what-if-tony.png
   venue: "5th Wordplay: When Language Meets Games Workshop @ EMNLP 2025"
   tag: story

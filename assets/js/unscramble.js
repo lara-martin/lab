@@ -16,7 +16,7 @@ function scrambledString(tag, objName, initScrambledString, initScrambledStringI
 	this.name = this.name[0].toUpperCase() + this.name.slice(1)
 
 	this.rescramble();
-	this.tag.innerHTML = '<a id="unscramble" onClick="' + this.objName + '.initAnimatedBubbleSort();" tabindex=0 aria-label="Click to reveal the email address for '+this.name+'.">email</a>';
+	this.tag.innerHTML = '<a role="button" class="unscramble" onClick="' + this.objName + '.initAnimatedBubbleSort();" tabindex=0 aria-label="Click to reveal the email address for '+this.name+'.">email</a>';
 }
 
 function rescramble() {

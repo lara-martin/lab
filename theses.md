@@ -1,8 +1,9 @@
 ---
 layout: page
 active_tab: theses
+title: Theses
 ---
-
+<div id="screen-reader-skip"></div>
 
 # LARA Lab Theses
 

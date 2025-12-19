@@ -1,7 +1,10 @@
 ---
 layout: page
 active_tab: publications
+title: Publications
 ---
+<div id="screen-reader-skip"></div>
+
 # Publications
 
 <!-- Pubs Start -->

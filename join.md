@@ -1,7 +1,10 @@
 ---
 layout: page
 active_tab: join
+title: Join the LARA Lab
 ---
+<div id="screen-reader-skip"></div>
+
 # Contacting Dr. Martin
 <small>(updated 3/24/2025)</small>
 
