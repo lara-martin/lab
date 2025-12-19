@@ -28,9 +28,9 @@ Information Technology and Engineering (ITE) 368
 <div class="table-scroll">
 <table class="people">
   <tbody>
-  <tr>
+  <ul>
   {% for person in type.people %}
-	<td>
+	<li>
 	<div class="image-cropper">
 	 {% if person.img %}
 		 {% if person.img contains "://" %}
@@ -62,10 +62,10 @@ Information Technology and Engineering (ITE) 368
 	 <!--{% if person.blurb %}
 	 <br><div class="bio" aria-label="about {{person.name}}">{{person.blurb}}</div>
 	 {% endif %}-->
-	</td>
+	</li>
 	
   {% endfor %}
-  </tr>
+  </ul>
 </tbody>
 </table>
 </div>
@@ -80,9 +80,9 @@ Information Technology and Engineering (ITE) 368
 <div class="table-scroll">
 <table class="people">
   <tbody>
-  <tr>
+  <ul>
   {% for person in group.people %}
-	<td>
+	<li>
 	<div class="image-cropper">
 	 {% if person.img %}
 		 {% if person.img contains "://" %}
@@ -120,10 +120,10 @@ Information Technology and Engineering (ITE) 368
 	 <br><div class="bio" aria-label="about {{person.name}}">{{person.blurb}}</div>
 	 {% endif %}-->
 
-	</td>
+	</li>
 	
   {% endfor %}
-  </tr>
+  </ul>
 </tbody>
 </table>
 </div>
