@@ -151,6 +151,7 @@ body .uwy.userway_p1 .uai {
 }
 
 .years {
+ text-decoration: none;
  color: #81B29A;
   position: relative;
   z-index: 1;
@@ -257,15 +258,15 @@ body .uwy.userway_p1 .uai {
   border-radius: 0.2rem;
 }
 .btn-outline-primary {
-  color: #81B29A;
-  border-color: #81B29A;
+  color: #007176;
+  border-color: #007176;
   font-weight: bold;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #81B29A;
-  border-color: #81B29A;
+  background-color: #007176;
+  border-color: #007176;
 }
 
 .btn-outline-primary:focus, .btn-outline-primary.focus {
@@ -407,16 +408,16 @@ a.navbar-item{
 }
 
 
-.portfolio-container.Preprint.preprint.mark {
-	background: #0081A7;
+.portfolio-container.Preprint.mark {
+	background: #005c35;
 }
 
-.portfolio-container.Conference.preprint.mark {
-	background: #00AFB9;
+.portfolio-container.Conference.mark {
+	background: #fdb515;
 }
 
-.portfolio-container.Workshop.preprint.mark {
-	background: #FED9B7;
+.portfolio-container.Workshop.mark {
+	background: #a385b6;
 	color: black;
 }
 
@@ -436,3 +437,4 @@ li {
 .person-list {
 	width: 380px;
 }
+

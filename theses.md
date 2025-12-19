@@ -15,19 +15,19 @@ title: Theses
 <div class="table-scroll">
 <table class="people">
   <tbody>
-  <tr>
+  <ul>
   {% for person in type.people %}
-	<td>
+	<li>
 	 <h4 style="display: inline;">{{person.author}},</h4> <h5 style="display: inline;">{{type.type}} {{person.area}} at {{person.place}}</h5><br>
 	 {% if person.official_pdf %}<h4 style="display: inline;"><a href="{{person.official_pdf}}" aria-label="{{person.author}}'s dissertation">{{person.title}}</a></h4>{%else%}<h4 style="display: inline;">{{person.title}}</h4>{%endif%}<br>
 	 {%if person.date %}<h5> Defended: {{person.date | '%B %e, %Y' }}</h5>{% endif %}<br>
 	 {%if person.abstract %} <b>Abstract:</b> {{person.abstract }}{% endif %}
 	 
 	 
-	</td>
+	</li>
 	
   {% endfor %}
-  </tr>
+  </ul>
   </tbody>
 </table>
 </div>
