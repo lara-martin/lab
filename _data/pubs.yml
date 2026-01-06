@@ -20,7 +20,8 @@
   arxiv: https://arxiv.org/abs/2503.11881
   venue: "Findings of the Association of Computational Linguistics: IJCNLP-AACL 2025"
   location: Mumbai, India
-  slides: slides/AACL2026_Findings_318_slides.pdf
+  slides: slides/AACL2025_Findings_318_slides.pdf
+  poster: poster/AACL2025_Findings_318_poster.pdf
   type: Conference
   img: RepAlign.png
   website: https://underline.io/lecture/137957-evaluating-human-llm-representation-alignment-a-case-study-on-affective-sentence-generation-for-augmentative-and-alternative-communication
