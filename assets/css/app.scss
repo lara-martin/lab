@@ -152,7 +152,7 @@ body .uwy.userway_p1 .uai {
 
 .years {
  text-decoration: none;
- color: #81B29A;
+ color: #007176;
   position: relative;
   z-index: 1;
  
@@ -281,8 +281,8 @@ body .uwy.userway_p1 .uai {
 .btn-outline-primary:not(:disabled):not(.disabled):active, .btn-outline-primary:not(:disabled):not(.disabled).active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #81B29A;
-  border-color: #81B29A;
+  background-color: #007176;
+  border-color: #007176;
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
@@ -408,15 +408,15 @@ a.navbar-item{
 }
 
 
-.portfolio-container.Preprint.mark {
+.Preprint.mark {
 	background: #005c35;
 }
 
-.portfolio-container.Conference.mark {
+.Conference.mark {
 	background: #fdb515;
 }
 
-.portfolio-container.Workshop.mark {
+.Workshop.mark {
 	background: #a385b6;
 	color: black;
 }
