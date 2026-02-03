@@ -46,11 +46,12 @@
       emaillist: 1aabcdehmnooruu@.
       emailorder: "[7,0,5,11,12,15,14,1,10,3,2,6,4,9,16,8,13]" 
       pronouns: she
+      website: https://aryahonraopatil.github.io/
       first: arya
       subtitle: PhD Student in Computer Science
       img: arya-honraopatil.jpeg
       blurb: "Arya Honraopatil is currently pursuing her PhD in Computer Science at UMBC. She received her M.S. in computer science from UMBC and B.S. in computer engineering from University of Pune, India. Her research interests include human-computer interaction (HCI), with a focus on automated story generation, natural language processing, and speech technologies."
-      area: "D&D AI"
+      area: "Expressive AI Storytelling"
       start: "Joined Summer 2024"
     - name: Marcus McAllister
       pronouns: he
