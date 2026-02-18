@@ -64,17 +64,7 @@
       coadvisor_link: https://userpages.cs.umbc.edu/cmat/
       start: "Joined Fall 2024"
       area: "Storytelling for Robotics"
-    #- name: Tianyi Zhang (张天怡)
-    #  pronouns: she
-    #  first: tianyi
-    #  img: tianyi-zhang.jpeg
-    #  website: https://tianyi0608.github.io/tianyizhang/
-    #  subtitle: PhD Student in Computer Science
-    #  start: "Joined Fall 2025"
-    #  area: "Neurosymbolic NLP"
-    #  emailorder: "[5, 0, 11, 7, 15, 2, 13, 10, 1, 14, 8, 6, 9, 3, 16, 12, 4]"
-    #  emaillist: itb1da.mie@zunucy
-    #  scholar: https://scholar.google.com/citations?user=HN9IiuMAAAAJ
+
       
 - title: Affiliated PhD Students
   people: 
@@ -92,21 +82,20 @@
 
 - title: Masters Students
   people: 
-    - name: Harsha Kothapalli
-      first: harsha
+    - name: Krish Mehta
+      first: krish
       subtitle: MS Student in Computer Science
       pronouns: he
-      website: https://www.linkedin.com/in/harsha-kothapalli/
-      img: harsha-kothapalli.jpeg
-      emailorder: "[1, 8, 7, 11, 10, 12, 4, 0, 5, 6, 2, 3, 9]"
-      emaillist: 1cbdeu@vum45.
-    - name: Lahari Vuppalapati
-      first: lahari
+      img: krish-mehta.jpeg
+      emailorder: "[7, 12, 2, 0, 13, 14, 1, 4, 19, 18, 8, 16, 9, 11, 6, 17, 5, 3, 15, 10]"
+      emaillist: euikmbrhudh.t@me.sca
+    - name: Maria Antonette Vanya
+      first: vanya
       subtitle: MS Student in Computer Science
       pronouns: she
-      img: Lahari-Vuppalapati.jpg
-      emailorder: "[7, 1, 10, 0, 4, 14, 2, 8, 12, 16, 5, 11, 6, 3, 15, 13, 9]"
-      emaillist: 2amlreh@cuibvad.u
+      img: 
+      emailorder: "[4, 3, 2, 8, 15, 10, 0, 5, 16, 1, 6, 9, 12, 14, 7, 13, 11]"
+      emaillist: ira@dmfaumauce1.b
 
     
 
@@ -193,7 +182,22 @@
         first: june
         emaillist: 04bcdeehjmopsuu@.
         emailorder: "[7,6,11,12,15,3,14,5,0,10,1,4,2,9,16,8,13]" 
-        subtitle: MS Student in Computer Science        
+        subtitle: MS Student in Computer Science 
+      - name: Harsha Kothapalli
+        first: harsha
+        subtitle: MS Student in Computer Science
+        pronouns: he
+        website: https://www.linkedin.com/in/harsha-kothapalli/
+        img: harsha-kothapalli.jpeg
+        emailorder: "[1, 8, 7, 11, 10, 12, 4, 0, 5, 6, 2, 3, 9]"
+        emaillist: 1cbdeu@vum45.
+      - name: Lahari Vuppalapati
+        first: lahari
+        subtitle: MS Student in Computer Science
+        pronouns: she
+        img: Lahari-Vuppalapati.jpg
+        emailorder: "[7, 1, 10, 0, 4, 14, 2, 8, 12, 16, 5, 11, 6, 3, 15, 13, 9]"
+        emaillist: 2amlreh@cuibvad.u      
 
    - type: Undergraduate Students
      people:

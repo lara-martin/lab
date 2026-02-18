@@ -15,7 +15,7 @@
 
 -
   title: Structured Narrative Processing and Generation
-  people: Patty Delafuente, Marcus McAllister, Harsha Kothapalli
+  people: Patty Delafuente, Marcus McAllister, Krish Mehta
   img:
   about: Although I have worked on <a href="https://repository.gatech.edu/entities/publication/cdc9c234-f370-4d46-9ba5-a651dba37935" aria-label="Lara's thesis on Neurosymbolic automated story generation">neurosymbolic automated story generation</a> for a while, I believe neurosymbolic techniques are becoming even more important in today's era of large language modeling. Symbolic techniques are older AI techniques that often involve a significant amount of hand engineering but can result in predictable & interpretable output and behavior. These can range from rule-based systems to planners. Neurosymbolic storytelling enables systems to have the flexibility and broad range of output that LLMs can generate while maintaining important storytelling components such as plot, coherency, and consistency. We are also looking at narrative as a mode of communication within robotics and detecting inconsistencies in data.
   pubs:
@@ -25,7 +25,7 @@
 
 -
   title: AI Agents for Playing Dungeons and Dragons
-  people: Arya Honraopatil, Patty Delafuente
+  people: Arya Honraopatil
   img: 
   about: <a href="https://en.wikipedia.org/wiki/Dungeons_%26_Dragons" aria-label="wikipedia page for dungeons and dragons">Dungeons & Dragons (D&D)</a> is a tabletop roleplaying game originally created in the 1970s. Now that we've seen AI that can play games like <a href="http://www.nature.com/doifinder/10.1038/nature16961" aria-label="Mastering the game of Go with deep neural networks and tree search">Go</a>, <a href="http://arxiv.org/abs/1912.06680" aria-label="Dota 2 with Large Scale Deep Reinforcement Learning">DotA 2</a>, or <a href="https://www.science.org/doi/10.1126/science.ade9097" aria-label="Human-level play in the game of Diplomacy by combining language models with strategic reasoning">Diplomacy</a>, I believe D&D is the next big challenge in AI. The game lends itself to a <a href="https://ceur-ws.org/Vol-2321/paper4.pdf" aria-label="Dungeons and DQNs&colon; Toward Reinforcement Learning Agents that Play Tabletop Roleplaying Games">variety of interesting problems</a> where players have to use skills in Theory of Mind and improvisational storytelling, all while following the rules of the game. 
   pubs:
@@ -53,7 +53,7 @@
 
 -
   title: Debugging Tools for Code Generation
-  people: Paul Abili, Lahari Vuppalapati
+  people: Paul Abili, Maria Antonette Vanya
   img:
   about: This is a side project looking at creating debugging tools for coders without diminishing their involvement in the process.
   
