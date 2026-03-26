@@ -18,6 +18,18 @@
 
 - title: PhD Students
   people:
+    - name: Shadab Choudhury
+      emaillist: 1aabbccddehmsuu@.
+      emailorder: "[7,2,4,5,11,6,12,3,15,14,1,10,0,9,16,8,13]"      
+      pronouns: he
+      img: shadab-choudhury.png
+      website: http://www.shadabchy.com/
+      bluesky: https://bsky.app/profile/namer.bsky.social
+      first: shadab
+      area: "Human-AI Collaboration for Accessibility"
+      scholar: https://scholar.google.com/citations?user=hU5jVnQAAAAJ
+      start: "Starting Fall 2026"
+      subtitle: PhD Student in Computer Science  
     - name: Patty Delafuente
       img: patty-delafuente.png
       alt: 
@@ -37,7 +49,7 @@
       first: ray
       subtitle: PhD Student in Computer Science
       start: "Joined Fall 2025"
-      area: "AAC/NLP for Assistive Technology"
+      area: "NLP for Assistive Technology & AAC"
       website: https://groshanr.github.io/
       emailorder: "[9, 0, 5, 13, 7, 3, 4, 10, 11, 12, 1, 6, 2, 8]"
       emaillist: cr@umg2.edauyb
@@ -86,7 +98,7 @@
       first: krish
       subtitle: MS Student in Computer Science
       pronouns: he
-      img: krish-mehta.jpeg
+      img: krish-mehta.jpg
       emailorder: "[7, 12, 2, 0, 13, 14, 1, 4, 19, 18, 8, 16, 9, 11, 6, 17, 5, 3, 15, 10]"
       emaillist: euikmbrhudh.t@me.sca
     - name: Maria Antonette Vanya
@@ -146,15 +158,6 @@
         pronouns: he
         first: ashish
         subtitle: MS Student in Computer Science   
-      - name: Shadab Choudhury
-        emaillist: 1aabbccddehmsuu@.
-        emailorder: "[7,2,4,5,11,6,12,3,15,14,1,10,0,9,16,8,13]"      
-        pronouns: he
-        img: shadab-choudhury.png
-        website: http://www.shadabchy.com/
-        bluesky: https://bsky.app/profile/namer.bsky.social
-        first: shadab
-        subtitle: MS Student in Computer Science
       - name: Dedeepya Palakurthi
         img: dedeepya-palakurthi.jpg
         pronouns: she
