@@ -35,8 +35,9 @@
     booktitle={Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025},
     eprint={2503.11881},
     archivePrefix={arXiv},
+    publisher={The Asian Federation of Natural Language Processing and The Association for Computational Linguistics},
     url={https://aclanthology.org/2025.findings-ijcnlp.100/},
-    doi={10.48550/arXiv.2503.11881},
+    doi={10.18653/v1/2025.findings-ijcnlp.100},
     pages={1618--1637},
     month={12},
     address={Mumbai, India}

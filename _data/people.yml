@@ -28,7 +28,7 @@
       first: shadab
       area: "Human-AI Collaboration for Accessibility"
       scholar: https://scholar.google.com/citations?user=hU5jVnQAAAAJ
-      start: "Starting Fall 2026"
+      start: "Joined Fall 2026"
       subtitle: PhD Student in Computer Science  
     - name: Patty Delafuente
       img: patty-delafuente.png
@@ -43,17 +43,6 @@
       start: "Joined Spring 2024"
       area: "RAG for Fraud Detection"
       orcid: https://orcid.org/0009-0005-2291-8837
-    - name: Ray Groshan
-      pronouns: he/they
-      img: ray-groshan.jpg
-      first: ray
-      subtitle: PhD Student in Computer Science
-      start: "Joined Fall 2025"
-      area: "NLP for Assistive Technology & AAC"
-      website: https://groshanr.github.io/
-      emailorder: "[9, 0, 5, 13, 7, 3, 4, 10, 11, 12, 1, 6, 2, 8]"
-      emaillist: cr@umg2.edauyb
-      scholar: https://scholar.google.com/citations?user=foY57vgAAAAJ
     - name: Arya Honraopatil
       emaillist: 1aabcdehmnooruu@.
       emailorder: "[7,0,5,11,12,15,14,1,10,3,2,6,4,9,16,8,13]" 
@@ -80,6 +69,19 @@
       
 - title: Affiliated PhD Students
   people: 
+    - name: Ray Groshan
+      pronouns: he/they
+      img: ray-groshan.jpg
+      first: ray
+      advisor: Rebecca Williams
+      advisor_link: https://sites.google.com/umbc.edu/prof-rebecca-williams/
+      subtitle: PhD Student in Computer Science
+      #start: "Joined Fall 2025"
+      #area: "NLP for Assistive Technology & AAC"
+      website: https://groshanr.github.io/
+      emailorder: "[9, 0, 5, 13, 7, 3, 4, 10, 11, 12, 1, 6, 2, 8]"
+      emaillist: cr@umg2.edauyb
+      scholar: https://scholar.google.com/citations?user=foY57vgAAAAJ
     - name: Sai Vallurupalli
       first: sai
       subtitle: PhD Student in Computer Science
@@ -112,15 +114,9 @@
     
 
 
-- title: Undergrad Students
-  people:
-    - name: Paul Abili
-      first: paul
-      subtitle: BS Student in Computer Science
-      emailorder: "[13, 2, 5, 9, 15, 10, 3, 8, 1, 4, 7, 6, 0, 14, 11, 12]"
-      emaillist: ebimubiual@1pdc. 
-      pronouns: he
-      img: Paul-Abili.jpg
+#- title: Undergrad Students
+#  people:
+
         
 
 
@@ -204,6 +200,13 @@
 
    - type: Undergraduate Students
      people:
+       - name: Paul Abili
+         first: paul
+         subtitle: BS Student in Computer Science
+         emailorder: "[13, 2, 5, 9, 15, 10, 3, 8, 1, 4, 7, 6, 0, 14, 11, 12]"
+         emaillist: ebimubiual@1pdc. 
+         pronouns: he
+         img: Paul-Abili.jpg
        - name: AJ Boyd
          pronouns: he
          first: aj
