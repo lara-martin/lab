@@ -5,7 +5,7 @@
 layout: page
 title: Language, Aid, and Representation AI (LARA) Lab
 ---
-<button id="theme-toggle" class="fa-solid fa-sun>Toggle Dark Mode</button>
+<button id="theme-toggle"> <i class="fa-solid fa-sun"></i>Toggle Dark Mode</button>
 <div id="screen-reader-skip"></div>
 
 
