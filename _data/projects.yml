@@ -15,7 +15,7 @@
 
 -
   title: Structured Narrative Processing and Generation
-  people: Patty Delafuente, Marcus McAllister, Krish Mehta
+  people: Patty Delafuente, Krish Mehta
   img:
   about: Although I have worked on <a href="https://repository.gatech.edu/entities/publication/cdc9c234-f370-4d46-9ba5-a651dba37935" aria-label="Lara's thesis on Neurosymbolic automated story generation">neurosymbolic automated story generation</a> for a while, I believe neurosymbolic techniques are becoming even more important in today's era of large language modeling. Symbolic techniques are older AI techniques that often involve a significant amount of hand engineering but can result in predictable & interpretable output and behavior. These can range from rule-based systems to planners. Neurosymbolic storytelling enables systems to have the flexibility and broad range of output that LLMs can generate while maintaining important storytelling components such as plot, coherency, and consistency. We are also looking at narrative as a mode of communication within robotics and detecting inconsistencies in data.
   pubs:
@@ -25,7 +25,7 @@
 
 -
   title: AI Agents for Playing Dungeons and Dragons
-  people: Arya Honraopatil
+  people: Thanya Balamurugan, Arya Honraopatil
   img: 
   about: <a href="https://en.wikipedia.org/wiki/Dungeons_%26_Dragons" aria-label="wikipedia page for dungeons and dragons">Dungeons & Dragons (D&D)</a> is a tabletop roleplaying game originally created in the 1970s. Now that we've seen AI that can play games like <a href="http://www.nature.com/doifinder/10.1038/nature16961" aria-label="Mastering the game of Go with deep neural networks and tree search">Go</a>, <a href="http://arxiv.org/abs/1912.06680" aria-label="Dota 2 with Large Scale Deep Reinforcement Learning">DotA 2</a>, or <a href="https://www.science.org/doi/10.1126/science.ade9097" aria-label="Human-level play in the game of Diplomacy by combining language models with strategic reasoning">Diplomacy</a>, I believe D&D is the next big challenge in AI. The game lends itself to a <a href="https://ceur-ws.org/Vol-2321/paper4.pdf" aria-label="Dungeons and DQNs&colon; Toward Reinforcement Learning Agents that Play Tabletop Roleplaying Games">variety of interesting problems</a> where players have to use skills in Theory of Mind and improvisational storytelling, all while following the rules of the game. 
   pubs:
@@ -36,9 +36,9 @@
     - title: "Does Reasoning Help LLM Agents Play Dungeons and Dragons? A Prompt Engineering Experiment"
 
 -
-  title: Community-Sensitive NLP Tools for Augmentative and Alternative Communication (AAC)
-  people: Ray Groshan
-  about: <a href="https://www.asha.org/public/speech/disorders/aac/" aria-label="the American Speech-Language-Hearing Association's explanation of AAC">Augmentative and Alternative Communication (AAC)</a> tools have been largely ignored by the natural language processing community. However, even though it has been an exciting time in NLP, we must implement such tools with caution &ndash; taking into consideration what AAC users actually want. I am interested in improving AAC by bringing their technology to the era of ChatGPT without sacrificing users' autonomy, privacy, or personality.
+  title: Customizable Assistive Technologies
+  people: Shadab Choudhury, Marcus McAllister
+  about: The majority of this work revolves around <a href="https://www.asha.org/public/speech/disorders/aac/" aria-label="the American Speech-Language-Hearing Association's explanation of AAC">Augmentative and Alternative Communication (AAC)</a>. AAC tools have been largely ignored by the natural language processing community. However, even though it has been an exciting time in AI, we must implement such tools with caution &ndash; taking into consideration what AAC users actually want. I am interested in improving AAC by adding in various natural language processing techniques without sacrificing users' autonomy, privacy, or personality.
   pubs:
     - title: "Aging Up AAC: An Introspection on Augmentative and Alternative Communication Applications for Autistic Adults"
     - title: "Evaluating Human-LLM Representation Alignment: A Case Study on Affective Sentence Generation for Augmentative and Alternative Communication"
@@ -46,14 +46,14 @@
  
 -
   title: Customizable and Emotive Speech Synthesis
-  people: Arya Honraopatil, Ray Groshan, Sai Vallurupalli
+  people: Shadab Choudhury, Arya Honraopatil, Padina Nasiri Toussi
   img:
   about: Now that transformer models have greatly improved speech synthesis (also called text-to-speech/TTS) capabilities, I believe the next step is to make voices that can emulate the rich tapestry of people's voice qualities.
    
 
 -
   title: Debugging Tools for Code Generation
-  people: Paul Abili, Maria Antonette Vanya
+  people: Sara Abbas, Maria Antonette Vanya
   img:
   about: This is a side project looking at creating debugging tools for coders without diminishing their involvement in the process.
   
