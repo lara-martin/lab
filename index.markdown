@@ -59,9 +59,6 @@ Information Technology and Engineering (ITE) 368
 	 {% endif %}
 	 {% if person.advisor %}<br>Advisor: <a href="{{person.advisor_link}}" aria-label="{{person.advisor}}'s website">{{person.advisor}}</a>{%endif%}
 	 {% if person.coadvisor %}<br>Co-Advised by: <a href="{{person.coadvisor_link}}" aria-label="{{person.coadvisor}}'s website">{{person.coadvisor}}</a>{%endif%}
-	 <!--{% if person.blurb %}
-	 <br><div class="bio" aria-label="about {{person.name}}">{{person.blurb}}</div>
-	 {% endif %}-->
 	</li>
 	
   {% endfor %}
@@ -77,7 +74,7 @@ Information Technology and Engineering (ITE) 368
 
 {% else %} <h2> {{group.title}} </h2>
 <div class="table-wrapper">
-<div class="table-scroll">
+{% if {{group.title}} == "Director"%}<div>{%else%}<div class="table-scroll">{%endif%}
 <table class="people">
   <tbody>
   <ul>
