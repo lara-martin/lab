@@ -14,6 +14,25 @@
 #  website:
 
 -
+  year: 2026
+  title: "Cooperative Roleplaying with Affective, Symbolic Representation-Guided Deep Reinforcement Learning"
+  authors: Arya Honraopatil
+  venue: AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment Doctoral Consortium
+  location: Belo Horizonte, MG, Brazil
+  type: Conference
+  tag: dnd
+  bib: |+
+    @inproceedings{Honraopatil2026CooperativeRoleplaying,
+    title={{Cooperative Roleplaying with Affective, Symbolic Representation-Guided Deep Reinforcement Learning}},
+    author={Honraopatil, Arya},
+    year={2026},
+    booktitle={AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
+    publisher={Association for the Advancement of Artificial Intelligence},
+    month={11},
+    address={Belo Horizonte, MG, Brazil}
+    }
+
+-
   year: 2025
   title: "Evaluating Human-LLM Representation Alignment: A Case Study on Affective Sentence Generation for Augmentative and Alternative Communication"
   authors: Shadab Choudhury, Asha Kumar, Lara J. Martin
