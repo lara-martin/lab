@@ -35,7 +35,7 @@
 -
   year: 2025
   title: "Evaluating Human-LLM Representation Alignment: A Case Study on Affective Sentence Generation for Augmentative and Alternative Communication"
-  authors: Shadab Choudhury, Asha Kumar, Lara J. Martin
+  authors: Shadab Hafiz Choudhury, Asha Kumar, Lara J. Martin
   arxiv: https://arxiv.org/abs/2503.11881
   official_pdf: https://aclanthology.org/2025.findings-ijcnlp.100/
   venue: "Findings of the Association of Computational Linguistics: IJCNLP-AACL 2025"
@@ -49,7 +49,7 @@
   bib: |+
     @inproceedings{Choudhury2025RepresentationAlignment,
     title={{Evaluating Human-LLM Representation Alignment: A Case Study on Affective Sentence Generation for Augmentative and Alternative Communication}},
-    author={Choudhury, Shadab and Kumar, Asha and Martin, Lara J.},
+    author={Choudhury, Shadab Hafiz and Kumar, Asha and Martin, Lara J.},
     year={2025},
     booktitle={Findings of the Association for Computational Linguistics: IJCNLP-AACL 2025},
     eprint={2503.11881},
