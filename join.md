@@ -5,23 +5,36 @@ title: Join the LARA Lab
 ---
 <div id="screen-reader-skip"></div>
 
-# Contacting Dr. Martin
-<small>(updated 3/24/2025)</small>
+# Joining the Lab
+<small>(updated 10/2/2026)</small>
+I appreciate your interest in joining the LARA Lab!
 
-I appreciate your interest in joining the LARA Lab! I get a lot of email, so if you send me an email, I probably won't respond. That said, if you really really want to contact me, here are some tips for increasing your chances of me responding.
+
+## For prospective PhD students:
+I am currently not taking on any new PhD students.
+
+## For current/incoming UMBC Masters/Undergrads:
+I currently do not have funding for Masters or undergrad students. However, I am open to discussing your interests and if there is a fit with the lab.
+
+I like to get to know students before working with them. To give everyone an equal chance, I will get to know students through the classes that I teach. If you'd like to work with me, please enroll in whatever class I'm teaching. If you can't get into the class and you have done previous work related to NLP, you can request to join my weekly lab meeting where we talk about current projects and sometimes go over papers together.
+	
+        
+
+## Contacting Dr. Martin
+ My email address can be found on <a href="https://laramartin.net/#contact" aria-label="Lara's homepage">my homepage</a>.
+ I get a lot of email, so if you send me an email, I probably won't respond. That said, if you really really want to contact me, here are some tips for increasing your chances of me responding.
+
 
 Please also keep in mind the <a href="https://ai.umbc.edu/ai-faculty/" aria-label="UMBC AI faculty">other amazing AI faculty at UMBC</a>.
 
-My email address can be found on <a href="https://laramartin.net/#contact" aria-label="Lara's homepage">my homepage</a>.
-
-## What NOT to do:
+### What NOT to do:
 * Please do not call me Mam/Ma'am. It does not match my gender identity and makes me very uncomfortable. Stick to Dr. Martin, Professor Martin, or even just Lara.
-* Please do not send me a generic email about what you're interested in from the lab's work. If you tell me that you think a certain paper of mine is interesting, chances are that I might not even work on that project anymore. 
-* Don't ask me to look at your application. If you apply to UMBC and you do relevant work, chances are I will see your application.
-* I'm not interested in your TOEFL/GRE scores or your past grades. While they (along with the other components of your application) are looked at in your application to the school, they don't tell me much about how you will do with research. 
+* Please do not email me about the lab's work. I know what we did. I'm more interested in what you've done.
+* Please do not single out a paper from the lab unless it is tied to your work. I'm not particularly interested in hearing if you find a certain paper of ours inspiring or that we can extend it in a certain way. Chances are that we might not even work on that project anymore. Instead, when reaching out to faculty, it's better to tie your interests to ours.
+* Please do not ask me to look at your application. If you apply to UMBC and you do relevant work, chances are I will see your application anyway.
+* Please do not share your TOEFL/GRE scores or your past grades/GPA. While they (along with the other components of your application) are looked at in your application to the school, they don't tell me much about how you will do with research. Save them for the application itself.
 
-
-## What to do:
+### What to do:
 * Ask specific questions. If you want to pick my brain about something you've been thinking about and you think I might know the answer, feel free to ask!
 * Tell me what *you* want to do. I can usually connect the dots to figure out if there's a relevant interest to us both.
 * If you do want to tell me about your education, let me know if you've taken any classes that might be relevant to the research I do (e.g., an AI or NLP course) or if you've done any related projects.
@@ -29,18 +42,10 @@ My email address can be found on <a href="https://laramartin.net/#contact" aria-
 * If you are a current student and would like to join the weekly LARA Lab meetings, let me know.
      
 
-## For current/incoming UMBC Masters/Undergrads:
-I currently do not have funding for Masters or undergrad students. However, I am open to working on an independent project with you.
-
-I like to get to know students before working with them. To give everyone an equal chance, I will get to know students through the classes that I teach. If you'd like to work with me, please enroll in whatever class I'm teaching. If you can't get into the class and you have done previous work related to NLP, you can request to join my weekly lab meeting where we talk about current projects and sometimes go over papers together.
-	
-        
-## For prospective PhD students:
-I am currently not taking on any new PhD students.
 
 
 ## Funding
-Your time and skills are valuable; you should never work for free. There are, however, some options for times when I don't have adequate funding for you.
+Your time and skills are valuable; you should never work for free. There are, however, some options for UMBC students:
 
 * <a href="https://ur.umbc.edu/prestigious-scholarships/goldwater-scholars/">Goldwater Scholars </a> (undergrad only)
 * <a href="https://ur.umbc.edu/urcad/">Undergraduate Research and Creative Achievement Day (URCAD) </a> (undergrad only)

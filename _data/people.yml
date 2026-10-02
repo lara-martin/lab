@@ -18,7 +18,7 @@
 
 - title: PhD Students
   people:
-    - name: Shadab Choudhury
+    - name: Shadab Hafiz Choudhury
       emaillist: 1aabbccddehmsuu@.
       emailorder: "[7,2,4,5,11,6,12,3,15,14,1,10,0,9,16,8,13]"      
       pronouns: he
@@ -36,7 +36,7 @@
       subtitle: PhD Student in Computer Science
       website: https://www.linkedin.com/in/pattydelafuente
       pronouns: she
-      blurb: "Patty Delafuente is a Data Scientist that supports the Public Sector team at NVIDIA. She is an AI Enthusiast with over 20 years of experience in Data Engineering and Analytics. She focuses much of her time helping Civilian customers accelerate their data science, NLP, and computer vision workloads with NVIDIA RAPIDS, NeMo, and the TAO Toolkit. She is a certified Deep Learning Institute Instructor and teaches multiple deep learning and large language model workshops for NVIDIA Deep Learning Institute. She holds a Master of Science in Analytics from Texas A&M and is currently pursuing her PhD in Computer Science at UMBC. She is part of the Adjunct Faculty at UMBC and occasionally teaches an Applied AI course for the Graduate Data Science Program. Her research areas are focused around managing application state and researching techniques such as reinforcement learning to improve agent planning within large language model applications."
+      #blurb: "Patty Delafuente is a Data Scientist that supports the Public Sector team at NVIDIA. She is an AI Enthusiast with over 20 years of experience in Data Engineering and Analytics. She focuses much of her time helping Civilian customers accelerate their data science, NLP, and computer vision workloads with NVIDIA RAPIDS, NeMo, and the TAO Toolkit. She is a certified Deep Learning Institute Instructor and teaches multiple deep learning and large language model workshops for NVIDIA Deep Learning Institute. She holds a Master of Science in Analytics from Texas A&M and is currently pursuing her PhD in Computer Science at UMBC. She is part of the Adjunct Faculty at UMBC and occasionally teaches an Applied AI course for the Graduate Data Science Program. Her research areas are focused around managing application state and researching techniques such as reinforcement learning to improve agent planning within large language model applications."
       first: patty
       emaillist: abcdemnnopsttuu@.
       emailorder: "[3,11,12,15,14,10,4,7,6,0,1,2,5,9,16,8,13]"
@@ -51,7 +51,7 @@
       first: arya
       subtitle: PhD Student in Computer Science
       img: arya-honraopatil.jpeg
-      blurb: "Arya Honraopatil is currently pursuing her PhD in Computer Science at UMBC. She received her M.S. in computer science from UMBC and B.S. in computer engineering from University of Pune, India. Her research interests include human-computer interaction (HCI), with a focus on automated story generation, natural language processing, and speech technologies."
+      #blurb: "Arya Honraopatil is currently pursuing her PhD in Computer Science at UMBC. She received her M.S. in computer science from UMBC and B.S. in computer engineering from University of Pune, India. Her research interests include human-computer interaction (HCI), with a focus on automated story generation, natural language processing, and speech technologies."
       area: "Expressive AI Storytelling"
       start: "Joined Summer 2024"
     - name: Marcus McAllister
@@ -65,7 +65,15 @@
       coadvisor_link: https://userpages.cs.umbc.edu/cmat/
       start: "Joined Fall 2024"
       area: "Multimodal Communication with Robotics"
-
+    - name: Keith Soehnlein
+      pronouns: he
+      first: keith
+      subtitle: PhD Student in Computer Science
+      emailorder: "[5, 11, 14, 16, 2, 15, 13, 4, 8, 3, 10, 9, 1, 7, 6, 0, 12]"
+      emaillist: nbeuod.h@emus1lkc
+      img: keith-soehnlein.jpeg 
+      start: "Joined Spring 2027"
+      area: Personas
       
 #- title: Affiliated PhD Students
 #  people: 
@@ -75,13 +83,6 @@
 
 - title: Masters Students
   people: 
-    - name: Krish Mehta
-      first: krish
-      subtitle: MS Student in Computer Science
-      pronouns: he
-      img: krish-mehta.jpg
-      emailorder: "[7, 12, 2, 0, 13, 14, 1, 4, 19, 18, 8, 16, 9, 11, 6, 17, 5, 3, 15, 10]"
-      emaillist: euikmbrhudh.t@me.sca
     - name: Maria Antonette Vanya
       first: vanya
       subtitle: MS Student in Computer Science
@@ -195,6 +196,13 @@
         pronouns: he
         first: ashish
         subtitle: MS Student in Computer Science   
+      - name: Krish Mehta
+        first: krish
+        subtitle: MS Student in Computer Science
+        pronouns: he
+        img: krish-mehta.jpg
+        emailorder: "[7, 12, 2, 0, 13, 14, 1, 4, 19, 18, 8, 16, 9, 11, 6, 17, 5, 3, 15, 10]"
+        emaillist: euikmbrhudh.t@me.sca        
       - name: Dedeepya Palakurthi
         img: dedeepya-palakurthi.jpg
         pronouns: she
