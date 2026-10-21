@@ -41,9 +41,7 @@ Here are some options for UMBC students:
 * <a href="https://ur.umbc.edu/prestigious-scholarships/goldwater-scholars/" aria-label="Goldwater Scholars program">Goldwater Scholars </a> (undergrad only)
 * <a href="https://ur.umbc.edu/urcad/" aria-label="URCAD">Undergraduate Research and Creative Achievement Day (URCAD) </a> (undergrad only)
 * <a href="https://ur.umbc.edu/ura/" aria-label="undergraduate research awards">Undergraduate Research Awards (URA)</a> (undergrad only)
-* <a href="https://ur.umbc.edu/summer-research/" aria-="
-
-https://matt.might.net/articles/advice-for-academic-job-hunt/summer research scholarships">Summer Research Scholarships</a> (undergrad only)
+* <a href="https://ur.umbc.edu/summer-research/" aria-label="summer research scholarships">Summer Research Scholarships</a> (undergrad only)
 * <a href="https://umbc.edu/admissions/graduate/funding" aria-label="graduate fellowships">Graduate Fellowships (grad only)</a>
 * Research for course credit. This does not pay you, but getting credit for doing research can be a form of compensation.
   * <a href="https://www.csee.umbc.edu/independent-study/" aria-label="independent study"> CMSC 499/699: Independent Study</a>
