@@ -34,8 +34,6 @@ I grew up in an academic family, but I recognize that not everyone has this priv
 ## Funding
 Your time and skills are valuable; you should never work for free.
 
-* [How to apply for and get compute grants (for students)](https://nightingal3.github.io/blog/2026/04/16/compute-grants/)
-
 
 Here are some options for UMBC students:
 * <a href="https://ur.umbc.edu/prestigious-scholarships/goldwater-scholars/" aria-label="Goldwater Scholars program">Goldwater Scholars </a> (undergrad only)
@@ -63,6 +61,9 @@ External funding opportunities:
 * <a href="https://linksim.org/program-guidelines/" aria-label="Link Foundation">Link Foundation</a> (PhD student)
 * <a href="https://ndseg.sysplus.com/" aria-label="NDSEG Fellowship">NDSEG Fellowship</a> (<a href="https://applyndseg.sysplus.com/Eligibility" aria-label="NDSEG eligibility checker">check eligibility</a>) 
 
+
+Extra:
+* [How to apply for and get compute grants (for students)](https://nightingal3.github.io/blog/2026/04/16/compute-grants/)
 
 ## Post-PhD
 
