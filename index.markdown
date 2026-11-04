@@ -132,12 +132,12 @@ Information Technology and Engineering (ITE) 368
 
 
 <!-- News Start -->
+<h2>News</h2>
 <section aria-label="news">
 	<div class="container-fluid" id="news">
 		<div class="container">
 			<!-- News Section -->
 			<div class="gallery">
-				<h2>News</h2>
 				<div style="position: relative;">
 					<a href="#end" class="screen-reader-only" aria-label="skip news">Skip news</a>
 				</div>

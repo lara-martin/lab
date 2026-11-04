@@ -456,3 +456,17 @@ li {
     max-width: 85%;
   }
 }
+
+ul.news {
+  padding-left: 0rem;
+  overflow: auto;
+  height: 300px;
+  scroll-behavior: smooth;
+  list-style: none;
+  border: 2px solid var(--off-white);
+  background: var(--bright-teal);
+}
+ul.news li {
+  padding-right: 0.4rem;
+  padding-left: 0.5rem;
+}
