@@ -129,3 +129,27 @@ Information Technology and Engineering (ITE) 368
 {% endif %}
 
 {% endfor %}
+
+
+<!-- News Start -->
+<section aria-label="news">
+	<div class="container-fluid" id="news">
+		<div class="container">
+			<!-- News Section -->
+			<div class="gallery">
+				<h2>News</h2>
+				<div style="position: relative;">
+					<a href="#end" class="screen-reader-only" aria-label="skip news">Skip news</a>
+				</div>
+				<ul class="news">
+					{% for news in site.data.news %}
+					<li future-date="{{ news.date | date: '%Y%m%d' }}" {% if news.highlight %}style="background: #F5E3C5;"{% endif %}><strong>{{ news.date | date: '%-m/%-d/%Y' }}{% if news.end %} - {{ news.end | date: '%-m/%-d/%Y' }}{%endif%}</strong> - {{ news.text }} {% if news.location %}  &ndash; <em>{{news.location}}</em>{%endif%}</li>				
+					{% endfor %}							
+				</ul>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- News End -->
+
+<div id="end"></div>

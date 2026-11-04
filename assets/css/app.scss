@@ -448,3 +448,10 @@ li {
 .navbar-end{
 	background: var(--bulma-primary);
 }
+
+
+@media (min-width: 992px) {
+  .gallery {
+    margin-left: 5rem;
+    max-width: 85%;
+  }

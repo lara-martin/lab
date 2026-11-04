@@ -30,11 +30,12 @@
       scholar: https://scholar.google.com/citations?user=hU5jVnQAAAAJ
       start: "Joined Fall 2026"
       subtitle: PhD Student in Computer Science  
+
     - name: Patty Delafuente
       img: patty-delafuente.png
       alt: 
       subtitle: PhD Student in Computer Science
-      website: https://www.linkedin.com/in/pattydelafuente
+      website: https://pattydelafuente.com/
       pronouns: she
       #blurb: "Patty Delafuente is a Data Scientist that supports the Public Sector team at NVIDIA. She is an AI Enthusiast with over 20 years of experience in Data Engineering and Analytics. She focuses much of her time helping Civilian customers accelerate their data science, NLP, and computer vision workloads with NVIDIA RAPIDS, NeMo, and the TAO Toolkit. She is a certified Deep Learning Institute Instructor and teaches multiple deep learning and large language model workshops for NVIDIA Deep Learning Institute. She holds a Master of Science in Analytics from Texas A&M and is currently pursuing her PhD in Computer Science at UMBC. She is part of the Adjunct Faculty at UMBC and occasionally teaches an Applied AI course for the Graduate Data Science Program. Her research areas are focused around managing application state and researching techniques such as reinforcement learning to improve agent planning within large language model applications."
       first: patty
@@ -43,17 +44,20 @@
       start: "Joined Spring 2024"
       area: "AI Interpretability"
       orcid: https://orcid.org/0009-0005-2291-8837
+    
     - name: Arya Honraopatil
       emaillist: 1aabcdehmnooruu@.
       emailorder: "[7,0,5,11,12,15,14,1,10,3,2,6,4,9,16,8,13]" 
       pronouns: she
       website: https://aryahonraopatil.github.io/
       first: arya
+      scholar: https://scholar.google.com/citations?user=FRtDDB4AAAAJ
       subtitle: PhD Student in Computer Science
       img: arya-honraopatil.jpeg
       #blurb: "Arya Honraopatil is currently pursuing her PhD in Computer Science at UMBC. She received her M.S. in computer science from UMBC and B.S. in computer engineering from University of Pune, India. Her research interests include human-computer interaction (HCI), with a focus on automated story generation, natural language processing, and speech technologies."
       area: "Expressive AI Storytelling"
       start: "Joined Summer 2024"
+    
     - name: Marcus McAllister
       pronouns: he
       first: marcus
@@ -66,6 +70,7 @@
       start: "Joined Fall 2024"
       area: "Multimodal Communication with Robots"
       website: https://mmcalli2.github.io/
+
     - name: Keith Soehnlein
       pronouns: he
       first: keith
@@ -91,6 +96,8 @@
       img: vanya.jpeg
       emailorder: "[4, 3, 2, 8, 15, 10, 0, 5, 16, 1, 6, 9, 12, 14, 7, 13, 11]"
       emaillist: ira@dmfaumauce1.b
+      coadvisor: Andrea Kleinsmith
+      coadvisor_link: https://userpages.umbc.edu/~andreak/
 
     
 
