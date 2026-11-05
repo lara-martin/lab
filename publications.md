@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pubs
 active_tab: publications
 title: Publications
 ---
