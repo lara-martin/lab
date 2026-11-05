@@ -1,9 +1,24 @@
 ---
 layout: page
 ---
-{% include head-scripts.html %}
+
+<div id="page-content">
+  {{ content }}
+</div>
 
 
-{{content}}
 
-{% include footer-scripts.html %}
+{% for aut in site.data.authors %}
+ {% for person in aut %}
+ 	
+	<script>
+	document.addEventListener("DOMContentLoaded", () => {
+	  const content = document.getElementById("page-content");
+
+	  content.innerHTML = content.innerHTML.replaceAll({{person.name}}, <a href="{{person.link}}">{{person.name}}</a>);
+	});
+	</script>
+
+ {%endfor%}
+{%endfor%}
+
