@@ -131,6 +131,7 @@ Information Technology and Engineering (ITE) 368
 {% endfor %}
 
 
+<hr>
 <!-- News Start -->
 <h2>News</h2>
 <section aria-label="news">
