@@ -22,6 +22,7 @@
   type: Conference
   official_pdf: https://ojs.aaai.org/index.php/AIIDE/article/view/43608
   tag: dnd
+  img: AIIDE2026DC.png
   bib: |+
     @inproceedings{Honraopatil2026CooperativeRoleplaying,
     title={{Cooperative Roleplaying with Affective, Symbolic Representation-Guided Deep Reinforcement Learning}},
