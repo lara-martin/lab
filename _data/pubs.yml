@@ -20,6 +20,7 @@
   venue: AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment Doctoral Consortium
   location: Belo Horizonte, MG, Brazil
   type: Conference
+  official_pdf: https://ojs.aaai.org/index.php/AIIDE/article/view/43608
   tag: dnd
   bib: |+
     @inproceedings{Honraopatil2026CooperativeRoleplaying,
@@ -29,7 +30,12 @@
     booktitle={AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment},
     publisher={Association for the Advancement of Artificial Intelligence},
     month={11},
-    address={Belo Horizonte, MG, Brazil}
+    address={Belo Horizonte, MG, Brazil},
+    pages={472--475},
+    volume={22},
+    number={1},
+    doi={10.1609/aiide.v22i1.43608},
+    url={https://ojs.aaai.org/index.php/AIIDE/article/view/43608}
     }
 
 -
