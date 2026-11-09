@@ -32,6 +32,9 @@ remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+jobs:
+  build:
+    runs-on: ubuntu-24.04 
 
 fixed_navbar: top
 
